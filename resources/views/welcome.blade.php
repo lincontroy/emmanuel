@@ -248,14 +248,14 @@
                                     <ul class="nav header-info">
                                         <li>
                                             <div class="header-address typo-white"><span class="ti-location-pin"></span>
-                                                684 West College St. Sun City, USA</div>
+                                            kiambu road, KENYA</div>
                                         </li>
                                     </ul>
                                 </li>
                             </ul>
                             <ul class="nav topbar-items pull-right">
                                 <li class="nav-item">
-                                    <div class="social-icons typo-white"> <a href="index.html#" class="social-fb"><span
+                                    <div class="social-icons typo-white"> <a href="https://www.facebook.com/NewBreedCityChapel" class="social-fb"><span
                                                 class="ti-facebook"></span></a> <a href="index.html#"
                                             class="social-twitter"><span class="ti-twitter"></span></a> <a
                                             href="index.html#" class="social-instagram"><span
@@ -585,7 +585,7 @@
                                             <!--List Item-->
                                             <li class="list-item">
                                                 <div class="header-navbar-text-1"><a href="donate-now.html"
-                                                        class="h-donate-btn">Donate</a></div>
+                                                        class="h-donate-btn">LOGIN</a></div>
                                             </li>
                                             <!--List Item End-->
                                         </ul> <!-- Menu -->
@@ -602,12 +602,13 @@
             <p class="rs-p-wp-fix"></p>
             <rs-module-wrap id="rev_slider_1_1_wrapper" data-alias="zegen-home-1" data-source="gallery"
                 style="visibility:hidden;background:#000000;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
-                <rs-module id="rev_slider_1_1" style="" data-version="6.5.31">
+                <rs-module id="rev_slider_1_1"  data-version="6.5.31">
                     <rs-slides>
                         <rs-slide style="position: absolute;" data-key="rs-1" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/zmain-slider-1-1536x864-100x100.jpg"
+                            data-thumb=" "
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/dummy.png" alt="Non Profit Wordpress Theme"
+                            data-out="a:false;">
+                             <img src="web/images/chapel.jpg" alt=""
                                 title="zmain-slider-1.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="web/rs-plugin/assets/zmain-slider-1-1536x864.jpg" data-parallax="5"
@@ -620,7 +621,7 @@
                                 data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:10;font-family:'Poppins';text-transform:uppercase;">God gives us power
+                                style="z-index:10;font-family:'Poppins';text-transform:uppercase;">NEW BREED CITY CHAPEL
                             </h1><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;"
@@ -630,8 +631,7 @@
                                 data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">we help you get
-                                things done </rs-layer><!--							-->
+                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">A Church under the Apostolic Umbrella of Appointment International Ministries </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
@@ -639,7 +639,7 @@
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
                                 style="z-index:9;font-family:'Open Sans';">Jesus is holy, loving, and worthy of all our
-                                worship and devotion. You will feel heaven in our Zegen Church. Join us and Praise the
+                                worship and devotion. You will feel heaven in New Breed City Chapel. Join us and Praise the
                                 Lord Jesus. </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn"
                                 data-type="button" data-color="rgba(255,255,255,1)"
@@ -656,7 +656,7 @@
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
                                 data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"><img
-                                    src="rs-plugin/assets/dummy.png" alt="Non Profit Wordpress Theme"
+                                    src="web/images/chapel.jpg" alt=" "
                                     class="tp-rs-img rs-lazyload" width="80" height="80"
                                     data-lazyload="rs-plugin/assets/dove.png" data-no-retina> </rs-layer>
                             <!---->
@@ -664,7 +664,7 @@
                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Web Show"
                             data-thumb="rs-plugin/assets/zmain-slider-3-1536x864-100x100.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="rs-plugin/assets/dummy.png" alt="Non Profit Wordpress Theme"
+                            data-out="a:false;"> <img src="web/images/chapel.jpg" alt=" "
                                 title="zmain-slider-3.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="rs-plugin/assets/zmain-slider-3-1536x864.jpg" data-parallax="5"
@@ -688,7 +688,7 @@
                                 data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">WE'RE BUILDING THEM
+                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">WE'RE BUILDING
                                 A HOME </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;"
@@ -697,7 +697,7 @@
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
                                 style="z-index:9;font-family:'Open Sans';">Jesus is holy, loving, and worthy of all our
-                                worship and devotion. You will feel heaven in our Zegen Church. Join us and Praise the
+                                worship and devotion. You will feel heaven in New Breed City Chapel. Join us and Praise the
                                 Lord Jesus. </rs-layer><!--							--><a id="slider-1-slide-2-layer-16"
                                 class="rs-layer res-slide-btn pop rev-btn" href="sermons.html" target="_self"
                                 data-type="button" data-color="rgba(255,255,255,1)"
@@ -715,7 +715,7 @@
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
                                 data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"><img
-                                    src="rs-plugin/assets/dummy.png" alt="Non Profit Wordpress Theme"
+                                    src="web/images/chapel.jpg" alt=" "
                                     class="tp-rs-img rs-lazyload" width="80" height="80"
                                     data-lazyload="rs-plugin/assets/loveus.png" data-no-retina> </rs-layer>
                             <!---->
@@ -723,7 +723,7 @@
                         <rs-slide style="position: absolute;" data-key="rs-3" data-title="Web Show"
                             data-thumb="rs-plugin/assets/zmain-slider-2-1536x864-100x100.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="rs-plugin/assets/dummy.png" alt="Non Profit Wordpress Theme"
+                            data-out="a:false;"> <img src="web/images/chapel.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="rs-plugin/assets/zmain-slider-2-1536x864.jpg" data-parallax="5"
@@ -755,7 +755,7 @@
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:'Open Sans';">Zegen Church WordPress Theme comes with
+                                style="z-index:9;font-family:'Open Sans';">New Breed City Chapel comes with
                                 sermons, ministries, events, testimonies, staff members, church locations shortcodes to
                                 enhance your website. </rs-layer><!--							--><a id="slider-1-slide-3-layer-16"
                                 class="rs-layer res-slide-btn pop rev-btn" href="ministries-grid-2.html" target="_self"
@@ -774,7 +774,7 @@
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
                                 data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"><img
-                                    src="rs-plugin/assets/dummy.png" alt="Non Profit Wordpress Theme"
+                                    src="web/images/chapel.jpg" alt=" "
                                     class="tp-rs-img rs-lazyload" width="80" height="80"
                                     data-lazyload="rs-plugin/assets/bible.png" data-no-retina> </rs-layer>
                             <!---->
@@ -820,7 +820,7 @@
                                         <div class="events-inner">
                                             <div class="events-item">
                                                 <div class="media">
-                                                    <div class="event-date me-4">Jan 3<span class="event-time">8.00
+                                                    <div class="event-date me-4">Jan 23<span class="event-time">8.00
                                                             am</span> </div>
                                                     <div class="media-body">
                                                         <!-- Ministries Content -->
@@ -934,7 +934,7 @@
                                                 <!-- about button -->
                                                 <div class="text-center">
                                                     <div class="about-img bf-pattern mb-5 mb-xl-0"> <img
-                                                            src="images/about-us/about-1.jpg" class="" alt="about-img">
+                                                            src="web/images/chapel.jpg" class="" alt="about-img">
                                                     </div> <!-- .col -->
                                                 </div>
                                             </div> <!-- about details End-->
@@ -950,7 +950,7 @@
                                                 Earth Better Planet</h2> <span class="border-bottom"></span>
                                         </div>
                                         <div class="pad-top-15">
-                                            <p class="margin-bottom-20">We welcome you with great joy to Zegen Church.
+                                            <p class="margin-bottom-20">We welcome you with great joy to New Breed City Chapel.
                                                 We are here to share the great news of Jesus Christ to all that will
                                                 listen.</p>
                                             <p class="styled-text">The name of the Lord is a strong tower; the righteous
@@ -968,7 +968,7 @@
                                                         <div class="feature-title relative margin-bottom-15">
                                                             <h4>Place Of Heaven</h4>
                                                         </div>
-                                                        <p class="mb-0">In Zegen you will feel divinity, piety,
+                                                        <p class="mb-0">In New Breed City Chapel you will feel divinity, piety,
                                                             goodness, faith or right beliefs.</p>
                                                     </div>
                                                 </div>
@@ -1013,7 +1013,7 @@
                                                 <!-- video button -->
                                                 <div class="video-play-btn text-center">
                                                     <div class="video-icon"> <a class="popup-youtube box-shadow1"
-                                                            href="https://www.youtube.com/watch?v=e1l1-LWTcBs"> <i
+                                                            href="https://www.youtube.com/"> <i
                                                                 class="ti-heart"></i> </a> </div>
                                                 </div>
                                             </div> <!-- video details End-->
@@ -1022,8 +1022,7 @@
                                             <div class="section-title typo-white margin-bottom-40">
                                                 <h2 class="title mb-3">“Pray! And listen to God! You can do this alone,
                                                     but find somebody to do it with you”</h2> <span
-                                                    class="dancing-text">Real Story Cross Journey from Anna
-                                                    Hampton</span>
+                                                    class="dancing-text">Real Story Cross Journey </span>
                                             </div>
                                             <div class="get-quote-btn"> <a class="btn btn-default"
                                                     href="donate-now.html" title="Donate Online">Donate Online</a>
@@ -1188,19 +1187,19 @@
                                                         class="text-center flip-icon-middle ti-headphone-alt"></span>
                                                 </div>
                                                 <h3 class="flip-box-title margin-bottom-30">Call Us</h3>
-                                                <div class="flip-content">
-                                                    <p>684 West College St. Sun City, USA.</p>
-                                                    <p><a href="tel:+8(123)985789">+8 (123) 985 789</a></p>
-                                                    <p><a href="mailto:zegenchurch@mail.com">zegenchurch@mail.com</a>
-                                                    </p>
-                                                </div>
+                                     <div class="flip-content">
+                                       <p> Kiambu Road, KENYA.</p>
+                                        <p><a href="tel:+8(123)985789">+2547/a></p>
+                                        <p><a href="mailto:newbreedchapelcity@gmail.com">newbreedchapelcity@gmail.com</a>
+                                        </p>
+                                     </div>
                                             </div>
                                             <div class="flip-box-back">
                                                 <h3 class="flip-box-title">Call Us</h3>
                                                 <div class="flip-content">
-                                                    <p>684 West College St. Sun City, USA.</p>
-                                                    <p><a href="tel:+8(123)985789">+8 (123) 985 789</a></p>
-                                                    <p><a href="mailto:zegenchurch@mail.com">zegenchurch@mail.com</a>
+                                                    <p>newbreedchapelcity@gmail.com.</p>
+                                                    <p><a href="tel:+8(123)985789">+2547</a></p>
+                                                    <p><a href="mailto:newbreedchapelcity@gmail.com">newbreedchapelcity@gmail.com</a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -1216,9 +1215,7 @@
                                                 <span class="border-bottom"></span>
                                             </div>
                                             <div class="pad-top-15">
-                                                <p class="margin-bottom-10">Feel free to Contact Us. Zegen Church WP
-                                                    Theme comes with sermons, ministries, events, testimonies, staff
-                                                    members, church locations shortcodes to enhance your website.</p>
+                                                <p class="margin-bottom-10">Feel free to Contact Us. New Breed City Chapel</p>
                                             </div>
                                         </div>
                                         <div class="button-section margin-top-25"> <a class="btn btn-default"
@@ -1267,7 +1264,7 @@
                                                     <div class="blog-details">
                                                         <div class="blog-title">
                                                             <h4 class="margin-bottom-10"><a href="blog-single.html"
-                                                                    class="blog-name">Giving Back – Uganda Training
+                                                                    class="blog-name">Giving Back –  Training
                                                                     Centers</a></h4>
                                                         </div>
                                                         <div class="post-desc mt-2">
@@ -1366,8 +1363,8 @@
                                                     <div class="blog-details">
                                                         <div class="blog-title">
                                                             <h4 class="margin-bottom-10"><a href="blog-single.html"
-                                                                    class="blog-name">Pray for Help to Save Mattia’s
-                                                                    Life</a></h4>
+                                                                    class="blog-name">Pray for Help to Save 
+                                                                    Lives</a></h4>
                                                         </div>
                                                         <div class="post-desc mt-2">
                                                             <div class="blog-link"> <a target="_blank"
@@ -1401,11 +1398,10 @@
                         <div class="col-lg-3 widget text-widget">
                             <div class="widget-title">
                                 <!-- Title -->
-                                <h3 class="title typo-white">About Zegen</h3>
+                                <h3 class="title typo-white">About New Breed City Chapel</h3>
                             </div> <!-- Text -->
                             <div class="widget-text margin-bottom-30">
-                                <p>Zegen Church WordPress Theme is professionaly designed for non-profit church, modern
-                                    church, prayer group, Christian, charity, non-profit organization. Grab it soon!</p>
+                                <p>New Breed City Chapel</p>
                             </div>
                             <div class="social-icons"> <a href="index.html#" class="social-fb"><span
                                         class="ti-facebook"></span></a> <a href="index.html#"
@@ -1441,7 +1437,7 @@
                                         <div class="side-image"> <a href="blog-single.html"><img width="80" height="80"
                                                     src="images/blog/thumb/blog_thumb1-80x80.jpg"
                                                     class="img-responsive wp-post-image" alt="Blog"></a> </div>
-                                        <div class="side-item-text"><a href="blog-single.html">Giving Back – Uganda
+                                        <div class="side-item-text"><a href="blog-single.html">Giving Back 
                                                 Training Centers</a> <span class="post-date d-block">Oct 21, 2019</span>
                                         </div>
                                     </li>
@@ -1461,12 +1457,12 @@
                                 <!-- Title -->
                                 <h3 class="title typo-white">Newsletter</h3>
                             </div>
-                            <p>Sign up for our weekly newsletter to stay updated on all news and events at Zegen Church.
+                            <p>Sign up for our weekly newsletter to stay updated on all news and events at New Breed City Chapel.
                                 Email updates on new product Announcements, Gift Ideas, Special Promotions and More.</p>
                             <div class="mailchimp-widget-wrap">
                                 <!-- subscribe form -->
                                 <form id="subscribe-form-1" class="subscribe-form"
-                                    action="https://zozothemes.com/html/zegen/inc/function.php">
+                                    action=" ">
                                     <div class="input-group add-on"> <input type="text" class="form-control"
                                             name="mcemail" autocomplete="off" id="mcemail-1"
                                             placeholder="Email Address">
@@ -1491,9 +1487,8 @@
                                 <li class="nav-item">
                                     <div class="nav-item-inner"> Copyrights © <script>
                                             document.write(new Date().getFullYear())
-                                        </script> <a href="index.html">Zegen</a>. Designed by <a
-                                            href="http://zozothemes.com/">Zozothemes</a><span
-                                            class="heart-color">♥</span> </div>
+                                        </script> <a href="index.html">   </a>. Designed by <a
+                                            href="http://automationeye.com">Automation Eye Limited</a>  </div>
                                 </li>
                             </ul>
                             <ul class="footer-bottom-items footer-menu pull-right">
