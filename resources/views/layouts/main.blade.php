@@ -298,7 +298,7 @@
                                             <!--List Item-->
                                             <li class="list-item">
                                                 <ul class="nav navbar-main menu-white">
-                                                    <li class="active dropdown cus-img-menu dropdown-sub"><a
+                                                    <li class=""><a
                                                             href="/">Home</a>
                                                   
                                                     </li>
