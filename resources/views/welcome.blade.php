@@ -605,13 +605,12 @@
                 <rs-module id="rev_slider_1_1"  data-version="6.5.31">
                     <rs-slides>
                         <rs-slide style="position: absolute;" data-key="rs-1" data-title="Web Show"
-                            data-thumb=" "
+                            data-thumb="web/rs-plugin/assets/reg_bg.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;">
-                             <img src="web/images/chapel.jpg" alt=""
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/reg_bg.jpg" alt=" "
                                 title="zmain-slider-1.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/zmain-slider-1-1536x864.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/reg_bg.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -631,7 +630,8 @@
                                 data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">A Church under the Apostolic Umbrella of Appointment International Ministries </rs-layer><!--							-->
+                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">A Church under the Apostolic Umbrella of Appointment International Ministries
+                                 </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
@@ -655,19 +655,16 @@
                                 data-xy="x:c;yo:228px,95px,91px,90px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
-                                data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"><img
-                                    src="web/images/chapel.jpg" alt=" "
-                                    class="tp-rs-img rs-lazyload" width="80" height="80"
-                                    data-lazyload="rs-plugin/assets/dove.png" data-no-retina> </rs-layer>
+                                data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"> </rs-layer>
                             <!---->
                         </rs-slide>
                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Web Show"
-                            data-thumb="rs-plugin/assets/zmain-slider-3-1536x864-100x100.jpg"
+                            data-thumb="web/rs-plugin/assets/crosses.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/images/chapel.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/crosses.jpg" alt=" "
                                 title="zmain-slider-3.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="rs-plugin/assets/zmain-slider-3-1536x864.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/crosses.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -688,7 +685,7 @@
                                 data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">WE'RE BUILDING
+                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">WE'RE BUILDING 
                                 A HOME </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;"
@@ -696,7 +693,7 @@
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:'Open Sans';">Jesus is holy, loving, and worthy of all our
+                                style="z-index:9;font-family:'Open Sans'; color:#000">Jesus is holy, loving, and worthy of all our
                                 worship and devotion. You will feel heaven in New Breed City Chapel. Join us and Praise the
                                 Lord Jesus. </rs-layer><!--							--><a id="slider-1-slide-2-layer-16"
                                 class="rs-layer res-slide-btn pop rev-btn" href="sermons.html" target="_self"
@@ -714,19 +711,16 @@
                                 data-xy="x:c;yo:228px,133px,102px,89px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
-                                data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"><img
-                                    src="web/images/chapel.jpg" alt=" "
-                                    class="tp-rs-img rs-lazyload" width="80" height="80"
-                                    data-lazyload="rs-plugin/assets/loveus.png" data-no-retina> </rs-layer>
+                                data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"> </rs-layer>
                             <!---->
                         </rs-slide>
                         <rs-slide style="position: absolute;" data-key="rs-3" data-title="Web Show"
-                            data-thumb="rs-plugin/assets/zmain-slider-2-1536x864-100x100.jpg"
+                            data-thumb="web/rs-plugin/assets/cross.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/images/chapel.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/cross.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="rs-plugin/assets/zmain-slider-2-1536x864.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/cross.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -756,8 +750,7 @@
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
                                 style="z-index:9;font-family:'Open Sans';">New Breed City Chapel comes with
-                                sermons, ministries, events, testimonies, staff members, church locations shortcodes to
-                                enhance your website. </rs-layer><!--							--><a id="slider-1-slide-3-layer-16"
+                                sermons, ministries, events, testimonies and staff members. </rs-layer><!--							--><a id="slider-1-slide-3-layer-16"
                                 class="rs-layer res-slide-btn pop rev-btn" href="ministries-grid-2.html" target="_self"
                                 data-type="button" data-color="rgba(255,255,255,1)"
                                 data-xy="x:c;y:m;yo:162px,156px,128px,112px;"
@@ -773,10 +766,7 @@
                                 data-xy="x:c;yo:228px,133px,102px,85px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
-                                data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"><img
-                                    src="web/images/chapel.jpg" alt=" "
-                                    class="tp-rs-img rs-lazyload" width="80" height="80"
-                                    data-lazyload="rs-plugin/assets/bible.png" data-no-retina> </rs-layer>
+                                data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"> </rs-layer>
                             <!---->
                         </rs-slide>
                     </rs-slides>
@@ -820,14 +810,14 @@
                                         <div class="events-inner">
                                             <div class="events-item">
                                                 <div class="media">
-                                                    <div class="event-date me-4">Jan 23<span class="event-time">8.00
-                                                            am</span> </div>
+                                                    <div class="event-date me-4">CROSSOVER KESHA<span class="event-time">2023-2024
+                                                            </span> </div>
                                                     <div class="media-body">
                                                         <!-- Ministries Content -->
                                                         <div class="event-content">
                                                             <div class="event-title">
-                                                                <h5><a href="event-details.html">Our Sponsorship Meetup
-                                                                        Will Be Held Again</a></h5>
+                                                                <h5><a href="event-details.html">NIGHT OF DOMINION
+                                                                        AT NEW BREED CITY CHAPEL HQ</a></h5>
                                                             </div>
                                                             <div class="read-more"><a href="event-details.html">Event
                                                                     Details</a></div>
@@ -845,14 +835,14 @@
                                         <div class="events-inner">
                                             <div class="events-item">
                                                 <div class="media">
-                                                    <div class="event-date me-4">Feb 12<span class="event-time">7.00
-                                                            am</span> </div>
+                                                    <div class="event-date me-4">EASTER SERVICE<span class="event-time">SUNDAY 9TH APRIL
+                                                            </span> </div>
                                                     <div class="media-body">
                                                         <!-- Ministries Content -->
                                                         <div class="event-content">
                                                             <div class="event-title">
-                                                                <h5><a href="event-details.html">Event: Reflect The
-                                                                        Community And Serving</a></h5>
+                                                                <h5><a href="event-details.html">AT NEW BREED CITY CHAPEL HQ
+                                                                        </a></h5>
                                                             </div>
                                                             <div class="read-more"><a href="event-details.html">Event
                                                                     Details</a></div>
@@ -999,7 +989,7 @@
                     </section> <!-- About Section End -->
                     <!-- Get a Quote Section -->
                     <section id="get-quote-section" class="get-quote-section section-bg-img"
-                        data-bg="images/bg/bg-1.jpg">
+                        data-bg="web/rs-plugin/assets/bible.jpg">
                         <div class="container">
                             <!-- Row -->
                             <div class="row text-center">
