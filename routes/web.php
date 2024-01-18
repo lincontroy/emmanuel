@@ -12,8 +12,32 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('landing');
 });
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/events', function () {
+    return view('events');
+});
+Route::get('/gallery', function () {
+    return view('gallery');
+});
+Route::get('/sermons', function () {
+    return view('sermons');
+});
+Route::get('/ministries', function () {
+    return view('ministries');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+
+
+
+
+
 
 Route::get('/setup/user', 'VisitorController@setupUser')->name('setupUser');
 Route::post('/setup/user', 'VisitorController@register')->name('visitor.register');
