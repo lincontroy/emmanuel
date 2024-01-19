@@ -32,7 +32,9 @@ Route::get('/ministries', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-
+Route::get('/departments', function () {
+    return view('departments');
+});
 
 
 
