@@ -35,7 +35,9 @@ Route::get('/contact', function () {
 Route::get('/departments', function () {
     return view('departments');
 });
-
+Route::get('/services', function () {
+    return view('services');
+});
 
 
 
