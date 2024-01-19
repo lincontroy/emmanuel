@@ -2,7 +2,7 @@
 @section('content')
 
 <div class="page-title-wrap typo-white">
-                <div class="page-title-wrap-inner section-bg-img" data-bg="images/page-title.jpg">
+                <div class="page-title-wrap-inner section-bg-img" data-bg="web/rs-plugin/assets/global.jpg">
 					<span class="theme-overlay"></span>
                     <div class="container">
                         <div class="row text-center">

@@ -9,10 +9,10 @@
                             <div class="col-md-12">
                                 <div class="page-title-inner">
 									<div id="breadcrumb" class="breadcrumb margin-bottom-10">
-                                        <a href="index.html" class="theme-color">Home</a>
-                                        <span class="current">Ministries Grid 2</span>
+                                       
+                                        <span class="current"></span>
                                     </div>
-                                    <h1 class="page-title mb-0">Ministries Grid 2</h1>
+                                    <h1 class="page-title mb-0"></h1>
                                 </div>
                             </div>
                         </div>
@@ -40,7 +40,7 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="images/ministries/childrens_ministry.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/child.jpeg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														<div class="ministries-icon-img-wrap">
 															<img decoding="async" src="images/ministries/cross-family.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
@@ -68,7 +68,7 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="images/ministries/women_ministry.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/women.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														<div class="ministries-icon-img-wrap">
 															<img decoding="async" src="images/ministries/angle.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
@@ -96,7 +96,7 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="images/ministries/global_ministry.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/global.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														<div class="ministries-icon-img-wrap">
 															<img decoding="async" src="images/ministries/loveus.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
@@ -124,7 +124,7 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="images/ministries/music_ministry.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/music.jpeg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														<div class="ministries-icon-img-wrap">
 															<img decoding="async" src="images/ministries/bible.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
@@ -152,7 +152,7 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="images/ministries/family_ministry.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/children.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														<div class="ministries-icon-img-wrap">
 															<img decoding="async" src="images/ministries/family.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">

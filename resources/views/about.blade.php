@@ -31,7 +31,7 @@
                                                 <!-- about button -->
                                                 <div class="text-center">
                                                     <div class="about-img">
-                                                        <img src="images/about-us/about-us-img.png" class="" alt="about-img">
+                                                        <img src="web/images/chapel.jpg" class="" alt="about-img">
                                                     </div>
                                                     <!-- .col -->
                                                 </div>
@@ -51,7 +51,7 @@
                                             <span class="border-bottom"></span>
                                         </div>
                                         <div class="pad-top-15">
-                                            <p class="margin-bottom-20">We welcome you with great joy to Zegen Church. We are here to share the great news of Jesus Christ to all that will listen.</p>                                            
+                                            <p class="margin-bottom-20">We welcome you with great joy to New Breed City Chapel. We are here to share the great news of Jesus Christ to all that will listen.</p>                                            
                                         </div>
                                     </div>
 									<div class="row">
@@ -66,7 +66,7 @@
 														<div class="feature-title relative margin-bottom-15">
 															<h4>Place Of Heaven</h4>
 														</div>
-														<p class="mb-0">In Zegen you will feel divinity, piety, goodness, faith or right beliefs.</p>
+														<p class="mb-0">In New Breed City Chapel you will feel divinity, piety, goodness, faith or right beliefs.</p>
 													</div>
 												</div>
 											</div>

@@ -32,7 +32,10 @@
                                 data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">A Church under the Apostolic Umbrella of Appointment International Ministries
+                                style=" z-index:11;font-family:'Open Sans';text-transform:uppercase;">
+
+
+
                                  </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;"
@@ -87,8 +90,11 @@
                                 data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">WE'RE BUILDING 
-                                A HOME </rs-layer><!--							-->
+                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">
+
+
+
+                                 </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
@@ -143,8 +149,10 @@
                                 data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">YOU CAN HELP FOR
-                                THEM </rs-layer><!--							-->
+                                style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">
+                            
+                            
+                            </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-3-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
@@ -450,7 +458,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="images/ministries/childrens_ministry.jpg" width="360"
+                                                        src="web/rs-plugin/assets/children.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
@@ -476,7 +484,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="images/ministries/women_ministry.jpg" width="360"
+                                                        src="web/rs-plugin/assets/women.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
@@ -503,7 +511,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="images/ministries/global_ministry.jpg" width="360"
+                                                        src="web/rs-plugin/assets/global.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
@@ -529,7 +537,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="images/ministries/music_ministry.jpg" width="360"
+                                                        src="web/rs-plugin/assets/music.jpeg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">

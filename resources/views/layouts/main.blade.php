@@ -357,7 +357,7 @@
                             <div class="widget-text margin-bottom-30">
                                 <p>New Breed City Chapel</p>
                             </div>
-                            <div class="social-icons"> <a href="index.html#" class="social-fb"><span
+                            <div class="social-icons"> <a href="https://www.facebook.com/NewBreedCityChapel/" class="social-fb"><span
                                         class="ti-facebook"></span></a> <a href="index.html#"
                                     class="social-twitter"><span class="ti-twitter"></span></a> <a href="index.html#"
                                     class="social-instagram"><span class="ti-instagram"></span></a> <a
