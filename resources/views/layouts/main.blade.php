@@ -303,9 +303,7 @@
                                                   
                                                     </li>
 
-                                                    <li class=""><a href="/services">Church Services</a>
-                                                   
-                                                     </li>
+                                                    
 
                                                     <li class=""><a href="/about">About Us</a>
                                                    
