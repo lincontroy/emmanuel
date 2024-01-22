@@ -1,4 +1,3 @@
-
 @extends('layouts.main')
 @section('content')
             <div class="page-title-wrap typo-white">
@@ -60,12 +59,10 @@
 										<div class="col-md-6">
 											<div class="feature-box-wrap f-box-style-1 relative">
 												<div class="feature-box-details">
-													<div class="feature-icon margin-bottom-25">
-														<span class="ti-heart b-radius-50 d-block"></span>
-													</div>
+													
 													<div class="feature-content">
 														<div class="feature-title relative margin-bottom-15">
-															<h4>Place Of Heaven</h4>
+															<h4>Mission</h4>
 														</div>
 														<p class="mb-0">In New Breed City Chapel you will feel divinity, piety, goodness, faith or right beliefs.</p>
 													</div>
@@ -77,12 +74,10 @@
 										<div class="col-md-6">
 											<div class="feature-box-wrap f-box-style-1 relative">
 												<div class="feature-box-details">
-													<div class="feature-icon margin-bottom-25">
-														<span class="ti-book b-radius-50 d-block"></span>
-													</div>
+													
 													<div class="feature-content">
 														<div class="feature-title relative margin-bottom-15">
-															<h4>Study Bible</h4>
+															<h4>Vision</h4>
 														</div>
 														<p class="mb-0">Learn the Bible enhance your wisdom, give you boldness about your faith.</p>
 													</div>
@@ -102,7 +97,7 @@
 					<!-- Get a Quote Section -->
                     <section id="get-quote-section" class="get-quote-section pad-none">
                         <div class="container">
-							<div class="div-bg-img b-radius-8 pad-top-50 pad-bottom-45" data-bg="images/bg/bg-1.jpg">
+							<div class="div-bg-img b-radius-8 pad-top-50 pad-bottom-45" data-bg="web/rs-plugin/assets/.jpg">
 								<!-- Row -->						
 								<div class="row get-quote-2">
 									<!-- Col -->
@@ -113,7 +108,7 @@
 												<!-- video button -->
 												<div class="video-play-btn text-center">			
 													<div class="video-icon">
-														<a class="popup-youtube box-shadow1" href="https://www.youtube.com/watch?v=1hLBCOlptq8">
+														<a class="popup-youtube box-shadow1" href="https://www.youtube.com/">
 															<i class="ti-heart"></i>
 														</a>
 													</div>														
@@ -128,7 +123,7 @@
 									<div class="col-md-9 pe-5">
 										<div class="title-wrap mb-0">
 											<div class="section-title typo-white mb-0">
-												<h2 class="title mb-0">“Pray! And listen to God! You can do this alone, but find somebody to do it with you”</h2>
+												<h2 class="title mb-0">         </h2>
 											</div>																					
 										</div>
 									</div>
@@ -148,8 +143,8 @@
 								<div class="offset-md-2 col-md-8">
 									<div class="title-wrap text-center">
 										<div class="section-title">
-											<span class="sub-title theme-color text-uppercase">Our Team</span>
-											<h2 class="section-title margin-top-5">Church Pastors</h2>
+											<span class="sub-title theme-color text-uppercase">Leadership Structure</span>
+											<h2 class="section-title margin-top-5">Church Leaders</h2>
 											<span class="border-bottom center"></span>											
 										</div>
 									</div>
@@ -164,10 +159,11 @@
 												<div class="team-thumb mb-0 relative">
 													<!--Team Overlay-->
 													<div class="team-overlay"></div>
-													<img src="images/team/team-6.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<img src="web/rs-plugin/assets/bishop.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
 													<div class="team-overlay-details top-left-overlay typo-white text-center">
 														<div class="social-icons">
-															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="https://www.facebook.com/BishopErickMwangi"><span class="ti-facebook"></span></a>
+															<a href="https://www.youtube.com/@bishoperickmwangi735"><span class="ti-youtube"></span></a>	
 															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
 															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
 															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
@@ -176,9 +172,9 @@
 												</div>												
 												<div class="team-details text-center pad-20">
 													<div class="team-name">
-														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Olivia</a></h3>
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Bishop Erick Mwangi</a></h3>
 													</div>
-													<div class="team-designation"><p class="mb-0">Executive Postor</p></div>
+													<div class="team-designation"><p class="mb-0">Church Bishop</p></div>
 												</div>
 											</div>
 											<!--Team Inner Ends-->
@@ -205,7 +201,7 @@
 												</div>												
 												<div class="team-details text-center pad-20">
 													<div class="team-name">
-														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Henna</a></h3>
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
 													</div>
 													<div class="team-designation"><p class="mb-0">Lead Pastor</p></div>
 												</div>
@@ -234,7 +230,7 @@
 												</div>												
 												<div class="team-details text-center pad-20">
 													<div class="team-name">
-														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Peterson</a></h3>
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
 													</div>
 													<div class="team-designation"><p class="mb-0">Pastor</p></div>
 												</div>
@@ -263,9 +259,9 @@
 												</div>												
 												<div class="team-details text-center pad-20">
 													<div class="team-name">
-														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Jackson</a></h3>
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
 													</div>
-													<div class="team-designation"><p class="mb-0">Protestant Clergy</p></div>
+													<div class="team-designation"><p class="mb-0">Pastor</p></div>
 												</div>
 											</div>
 											<!--Team Inner Ends-->
@@ -292,9 +288,9 @@
 												</div>												
 												<div class="team-details text-center pad-20">
 													<div class="team-name">
-														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Johnny</a></h3>
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
 													</div>
-													<div class="team-designation"><p class="mb-0">Christian Speaker</p></div>
+													<div class="team-designation"><p class="mb-0">Pastor</p></div>
 												</div>
 											</div>
 											<!--Team Inner Ends-->
@@ -321,9 +317,9 @@
 												</div>												
 												<div class="team-details text-center pad-20">
 													<div class="team-name">
-														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Sophia Jones</a></h3>
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
 													</div>
-													<div class="team-designation"><p class="mb-0">Senior Postor</p></div>
+													<div class="team-designation"><p class="mb-0">Senior Pastor</p></div>
 												</div>
 											</div>
 											<!--Team Inner Ends-->
@@ -337,7 +333,768 @@
 						</div>
 						<!-- Container -->
 					</section>
-					<!-- Team Section End -->				
-                </div>
+					<!-- Team Section End -->		
+					
+					
+
+					
+              
+
+
+
+
+				<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
+						<div class="container">
+							<!-- Row -->
+							<div class="row">
+								<div class="offset-md-2 col-md-8">
+									<div class="title-wrap text-center">
+										<div class="section-title">
+											<span class="sub-title theme-color text-uppercase">Apostolic Counsel</span>
+											<h2 class="section-title margin-top-5">Apostles</h2>
+											<span class="border-bottom center"></span>											
+										</div>
+									</div>
+								</div>
+								<!--Team Main Slider-->
+								<div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="   " class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href=" "><span class="ti-facebook"></span></a>
+															<a href=" "><span class="ti-youtube"></span></a>	
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-2.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-1.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-4.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-3.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-5.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Full Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+								</div>
+								<!--Team Owl Slider-->
+							</div>
+							<!-- Row -->
+						</div>
+						<!-- Container -->
+					</section>
+
+					<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
+						<div class="container">
+							<!-- Row -->
+							<div class="row">
+								<div class="offset-md-2 col-md-8">
+									<div class="title-wrap text-center">
+										<div class="section-title">
+											<span class="sub-title theme-color text-uppercase">DREAM TEAM</span>
+											<h2 class="section-title margin-top-5">Leaders</h2>
+											<span class="border-bottom center"></span>											
+										</div>
+									</div>
+								</div>
+								<!--Team Main Slider-->
+								<div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="   " class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href=" "><span class="ti-facebook"></span></a>
+															<a href=" "><span class="ti-youtube"></span></a>	
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-2.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-1.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-4.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-3.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="images/team/team-5.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Full Names</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Apostle</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+								</div>
+								<!--Team Owl Slider-->
+							</div>
+							<!-- Row -->
+						</div>
+						<!-- Container -->
+					</section>
+
+					<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
+						<div class="container">
+							<!-- Row -->
+							<div class="row">
+								<div class="offset-md-2 col-md-8">
+									<div class="title-wrap text-center">
+										<div class="section-title">
+											<span class="sub-title theme-color text-uppercase">NEW BREED CITY</span>
+											<h2 class="section-title margin-top-5">Branches</h2>
+											<span class="border-bottom center"></span>											
+										</div>
+									</div>
+								</div>
+								<!--Team Main Slider-->
+								<div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href=" "><span class="ti-facebook"></span></a>
+															<a href=" "><span class="ti-youtube"></span></a>	
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">HQ</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/thome.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Thome</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/kasarani.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kasarani</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kitengela</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Rongai</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nakuru.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Nakuru</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/kisumu.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kisumu</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/kakamega.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kakamega</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends--><!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/abuja.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Abuja</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Dallas</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+									<!--Item-->
+									<div class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Diaspora</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+
+
+								</div>
+								<!--Team Owl Slider-->
+							</div>
+							<!-- Row -->
+						</div>
+						<!-- Container -->
+					</section>
+
+					</div>
             </div>
-			@endsection
+
+			
+@endsection
