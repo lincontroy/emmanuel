@@ -484,7 +484,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/w.jpg" width="360"
+                                                        src="web/rs-plugin/assets/wo.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
@@ -537,7 +537,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/music.jpeg" width="360"
+                                                        src="web/rs-plugin/assets/w.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
