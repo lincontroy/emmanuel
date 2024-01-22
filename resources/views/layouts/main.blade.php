@@ -224,7 +224,7 @@
                                                     class="ti-menu"></i></a></li>
                                     </ul>
                                     <ul class="nav mobile-header-items pull-center">
-                                        <li> <a href="index.html" class="img-before"><img src="images/logo-dark.png"
+                                        <li> <a href="index.html" class="img-before"><img src="web/images/newbreed.png"
                                                     class="img-fluid changeable-dark" width="149" height="45"
                                                     alt="Logo"></a> </li>
                                     </ul>
@@ -302,19 +302,31 @@
                                                             href="/">Home</a>
                                                   
                                                     </li>
+
+                                                    <li class=""><a href="/services">Church Services</a>
+                                                   
+                                                     </li>
+
                                                     <li class=""><a href="/about">About Us</a>
                                                    
                                                     </li>
-                                                    <li class=""><a href="/events">Events</a>
-                                                   
-                                                    </li>
-                                                    <li class=""><a href="/sermons">Sermons</a>
-                                                       
-                                                    </li>
+
                                                     <li class=""><a
                                                             href="/ministries">Ministries</a>
                                                    
                                                     </li>
+
+                                                    <li class=""><a href="/events">Events</a>
+                                                   
+                                                    </li>
+                                                    <li class=""><a
+                                                            href="/departments">Departments</a>
+                                                   
+                                                    </li>
+
+
+                                                   
+                                                    
                                                  
                                                     <li><a href="/contact">Contact Us</a></li>
                                                 </ul>
