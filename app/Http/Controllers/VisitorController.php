@@ -5,11 +5,30 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Dcblogdev\Countries\Facades\Countries;
 use \App\User;
+use \App\Event;
 use \App\Branch;
 use \App\Setting;
 
 class VisitorController extends Controller
 {
+
+    public function landing(){
+
+
+        $events=Event::where('id','!=',-1)
+        ->orderBy('ID','DESC')
+        ->get();
+
+        return view('landing',compact('events'));
+    }
+
+    public function events(){
+        $events=Event::where('id','!=',-1)
+        ->orderBy('ID','DESC')
+        ->get();
+
+        return view('events',compact('events'));
+    }
     //
     public function ip_info($ip = NULL, $purpose = "location", $deep_detect = TRUE)
     {
