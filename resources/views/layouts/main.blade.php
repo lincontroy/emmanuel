@@ -224,9 +224,7 @@
                                                     class="ti-menu"></i></a></li>
                                     </ul>
                                     <ul class="nav mobile-header-items pull-center">
-                                        <li> <a href="index.html" class="img-before"><img src=" "
-                                                    class="img-fluid changeable-dark" width="149" height="45"
-                                                    alt="Logo"></a> </li>
+                                        <li> </li>
                                     </ul>
                                     <ul class="nav mobile-header-items pull-right">
                                         <li class="nav-item"><a href="index.html#"
