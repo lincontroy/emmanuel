@@ -7,12 +7,12 @@
                 <rs-module id="rev_slider_1_1"  data-version="6.5.31">
                     <rs-slides>
                         <rs-slide style="position: absolute;" data-key="rs-1" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/reg_bg.jpg"
+                            data-thumb="web/rs-plugin/assets/b1.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/reg_bg.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/b1.jpg" alt=" "
                                 title="zmain-slider-1.jpg" width="1536" height="864"
-                                class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/reg_bg.jpg" data-parallax="5"
+                                class="rev-slidebg tp-rs-img rs-lazyload" 
+                                data-lazyload= "web/rs-plugin/assets/b1.jpg"  data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -22,7 +22,7 @@
                                 data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;"
                                 data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:10;font-family:'Poppins';text-transform:uppercase;">NEW BREED CITY CHAPEL
+                                style="z-index:10;font-family:'Garamond';text-transform:uppercase; ">NEW BREED CITY CHAPEL
                             </h1><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;"
@@ -43,7 +43,7 @@
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:'Open Sans';">Jesus is holy, loving, and worthy of all our
+                                style="z-index:9;font-family:Garamond">Jesus is holy, loving, and worthy of all our
                                 worship and devotion. You will feel heaven in New Breed City Chapel. Join us and Praise the
                                 Lord Jesus. </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn"
@@ -64,12 +64,12 @@
                             <!---->
                         </rs-slide>
                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/crosses.jpg"
+                            data-thumb="web/rs-plugin/assets/c.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/crosses.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/c.jpg" alt=" "
                                 title="zmain-slider-3.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/crosses.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/c.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -80,7 +80,7 @@
                                 data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;"
                                 data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:10;font-family:'Poppins';text-transform:uppercase;">We call, price the
+                                style="z-index:10;font-family:'Garamond';text-transform:uppercase;">We call, price the
                                 lord </h1><!--							-->
                             <rs-layer id="slider-1-slide-2-layer-4" class="Concept-SubTitle" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-72px;"
@@ -101,7 +101,7 @@
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:'Open Sans'; color:#000">Jesus is holy, loving, and worthy of all our
+                                style="z-index:9;font-family:'Garamond'; color:#000">Jesus is holy, loving, and worthy of all our
                                 worship and devotion. You will feel heaven in New Breed City Chapel. Join us and Praise the
                                 Lord Jesus. </rs-layer><!--							--><a id="slider-1-slide-2-layer-16"
                                 class="rs-layer res-slide-btn pop rev-btn" href="sermons.html" target="_self"
@@ -123,12 +123,12 @@
                             <!---->
                         </rs-slide>
                         <rs-slide style="position: absolute;" data-key="rs-3" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/cross.jpg"
+                            data-thumb="web/rs-plugin/assets/3.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/cross.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/3.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/cross.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/3.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -139,7 +139,7 @@
                                 data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;"
                                 data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;"
                                 data-frame_999_reverse="x:true;"
-                                style="z-index:10;font-family:'Poppins';text-transform:uppercase;">LET'S BRING THEM HOME
+                                style="z-index:10;font-family:'Garamond';text-transform:uppercase;">BRINGING THEM HOME
                             </h1><!--							-->
                             <rs-layer id="slider-1-slide-3-layer-4" class="Concept-SubTitle" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-76px;"
@@ -159,7 +159,7 @@
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:'Open Sans';">New Breed City Chapel comes with
+                                style="z-index:9;font-family:'Garamond';">New Breed City Chapel comes with
                                 sermons, ministries, events, testimonies and staff members. </rs-layer><!--							--><a id="slider-1-slide-3-layer-16"
                                 class="rs-layer res-slide-btn pop rev-btn" href="ministries-grid-2.html" target="_self"
                                 data-type="button" data-color="rgba(255,255,255,1)"
@@ -399,7 +399,7 @@
                     </section> <!-- About Section End -->
                     <!-- Get a Quote Section -->
                     <section id="get-quote-section" class="get-quote-section section-bg-img"
-                        data-bg="web/rs-plugin/assets/bible.jpg">
+                        data-bg="web/rs-plugin/assets/crowd.jpg">
                         <div class="container">
                             <!-- Row -->
                             <div class="row text-center">
@@ -458,7 +458,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/children.jpg" width="360"
+                                                        src="web/rs-plugin/assets/6.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
@@ -484,7 +484,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/women.jpg" width="360"
+                                                        src="web/rs-plugin/assets/w.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
@@ -511,7 +511,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/global.jpg" width="360"
+                                                        src="web/rs-plugin/assets/g.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
