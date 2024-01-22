@@ -184,7 +184,7 @@
     <div class="zmm-wrapper"> <a href="index.html#" class="zmm-close close"></a>
         <div class="zmm-inner bg-white typo-dark">
             <div class="text-center mobile-logo-part margin-bottom-30"> <a href="index.html" class="img-before"><img
-                        src="web/images/newbreed.png" class="img-fluid changeable-dark" width="170" height="51"
+                        src=" " class="img-fluid changeable-dark" width="170" height="51"
                         alt="Logo"></a> </div>
             <div class="zmm-main-nav"> </div>
             <div class="search-form-wrapper margin-top-30">
@@ -224,9 +224,7 @@
                                                     class="ti-menu"></i></a></li>
                                     </ul>
                                     <ul class="nav mobile-header-items pull-center">
-                                        <li> <a href="index.html" class="img-before"><img src="web/images/newbreed.png"
-                                                    class="img-fluid changeable-dark" width="149" height="45"
-                                                    alt="Logo"></a> </li>
+                                        <li> </li>
                                     </ul>
                                     <ul class="nav mobile-header-items pull-right">
                                         <li class="nav-item"><a href="index.html#"
