@@ -40,11 +40,9 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/child.jpeg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/6.jpg" width="360" height="240" alt=" Processing">
 														</div>
-														<div class="ministries-icon-img-wrap">
-															<img decoding="async" src="images/ministries/cross-family.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
-														</div>
+														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
@@ -70,9 +68,7 @@
 														<div class="ministries-thumb">
 															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/women.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
-														<div class="ministries-icon-img-wrap">
-															<img decoding="async" src="images/ministries/angle.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
-														</div>
+														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
@@ -96,11 +92,9 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/global.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/g.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
-														<div class="ministries-icon-img-wrap">
-															<img decoding="async" src="images/ministries/loveus.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
-														</div>
+														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
@@ -124,11 +118,9 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/music.jpeg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/music.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
-														<div class="ministries-icon-img-wrap">
-															<img decoding="async" src="images/ministries/bible.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
-														</div>
+														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
@@ -152,15 +144,13 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/children.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/dance.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
-														<div class="ministries-icon-img-wrap">
-															<img decoding="async" src="images/ministries/family.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
-														</div>
+														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Family Ministry</a></h4>
+																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Praise And Worship</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
 																<p>Our Family ministry often takes the shape of family-targeted dealing with various life issues and counseling services for families</p>
@@ -180,18 +170,16 @@
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="images/ministries/prison_ministry.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/del.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
-														<div class="ministries-icon-img-wrap">
-															<img decoding="async" src="images/ministries/dove.png" class="img-fluid ministries-icon-img" width="80" height="80" alt="Children’s Ministry">
-														</div>
+														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Prison Ministry</a></h4>
+																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Deliverance Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
-																<p>Our Prison ministry serves in jails and prisons. Services start in the early noon. Prison ministry teaches spiritual lessons,</p>
+																<p>Salvation and spiritual deliverance to the kingdom of God.</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
 																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
