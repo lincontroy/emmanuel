@@ -588,8 +588,9 @@
                             @if (count($eventss) < 1)
                                 <p class="text-danger"> No Event </p>
                             @endif
-                            <button onclick="window.location.replace(`{{ route('calendar') }}`)"
-                                class="btn btn-sm btn-primary"><i class="icofont icofont-plus m-r-0"></i></button>
+                            <button onclick="window.location.replace(``)"
+                                class="btn btn-sm btn-primary"><i class="icofont icofont-plus m-r-0"></i>
+                            </button>
                         </div>
                     </div>
                 </div>

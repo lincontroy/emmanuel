@@ -804,6 +804,8 @@
                                     data-dots="1" data-autoplay="0" data-autoplaypause="1" data-autoplaytime="5000"
                                     data-smartspeed="1000" data-margin="30" data-items="2" data-items-tab="1"
                                     data-items-mob="1">
+
+                                    
                                     <!--Item-->
                                     <div class="item">
                                         <!--Events Inner-->
@@ -829,80 +831,7 @@
                                         <!--Events Inner Ends-->
                                     </div>
                                     <!--Item Ends-->
-                                    <!--Item-->
-                                    <div class="item">
-                                        <!--Events Inner-->
-                                        <div class="events-inner">
-                                            <div class="events-item">
-                                                <div class="media">
-                                                    <div class="event-date me-4">EASTER SERVICE<span class="event-time">SUNDAY 9TH APRIL
-                                                            </span> </div>
-                                                    <div class="media-body">
-                                                        <!-- Ministries Content -->
-                                                        <div class="event-content">
-                                                            <div class="event-title">
-                                                                <h5><a href="event-details.html">AT NEW BREED CITY CHAPEL HQ
-                                                                        </a></h5>
-                                                            </div>
-                                                            <div class="read-more"><a href="event-details.html">Event
-                                                                    Details</a></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--Events Inner Ends-->
-                                    </div>
-                                    <!--Item Ends-->
-                                    <!--Item-->
-                                    <div class="item">
-                                        <!--Events Inner-->
-                                        <div class="events-inner">
-                                            <div class="events-item">
-                                                <div class="media">
-                                                    <div class="event-date me-4">Mar 3<span class="event-time">6.00
-                                                            am</span> </div>
-                                                    <div class="media-body">
-                                                        <!-- Ministries Content -->
-                                                        <div class="event-content">
-                                                            <div class="event-title">
-                                                                <h5><a href="event-details.html">New Families During
-                                                                        National Adoption Month</a></h5>
-                                                            </div>
-                                                            <div class="read-more"><a href="event-details.html">Event
-                                                                    Details</a></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--Events Inner Ends-->
-                                    </div>
-                                    <!--Item Ends-->
-                                    <!--Item-->
-                                    <div class="item">
-                                        <!--Events Inner-->
-                                        <div class="events-inner">
-                                            <div class="events-item">
-                                                <div class="media">
-                                                    <div class="event-date me-4">Apr 18<span class="event-time">12.00
-                                                            pm</span> </div>
-                                                    <div class="media-body">
-                                                        <!-- Ministries Content -->
-                                                        <div class="event-content">
-                                                            <div class="event-title">
-                                                                <h5><a href="event-details.html">Event: Lord is
-                                                                        Sufficient for all of our needs</a></h5>
-                                                            </div>
-                                                            <div class="read-more"><a href="event-details.html">Event
-                                                                    Details</a></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--Events Inner Ends-->
-                                    </div>
+                                    
                                     <!--Item Ends-->
                                 </div>
                                 <!--Events Owl Slider-->

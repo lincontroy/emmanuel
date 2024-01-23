@@ -274,8 +274,46 @@
                       </li>
 										</ul>
 									</li>
+
+									<li class="{{ (Route::currentRouteName() == 'members.all' || Route::currentRouteName() ==  'member.register.form') ? 'active-sub active' : ''}}
+                  	{{Route::currentRouteName() === 'member.profile' ? 'active-sub' : ''}}">
+
+										<a href="{{route('members.all')}}">
+											<i class="fa fa-book"></i>
+											<span class="menu-title">Events</span>
+											<i class="arrow"></i>
+										</a>
+										<ul class="collapse">
+											<li class="{{ Route::currentRouteName() === 'events' ? 'active-sub active' : '' }}">
+												<a href="{{ route('events.all') }}"><i class="fa fa-list"></i> All Events</a>
+											</li>
+											<li class="{{ Route::currentRouteName() === 'member.register.form' ? 'active-sub active' : '' }}">
+												<a href="{{route('events.create')}}"><i class="fa fa-registered"></i> Create Event</a>
+                      </li>
+										</ul>
+									</li>
+									<li class="{{ (Route::currentRouteName() == 'members.all' || Route::currentRouteName() ==  'member.register.form') ? 'active-sub active' : ''}}
+                  	{{Route::currentRouteName() === 'member.profile' ? 'active-sub' : ''}}">
+
+										<a href="{{route('members.all')}}">
+											<i class="fa fa-book"></i>
+											<span class="menu-title">Sermons</span>
+											<i class="arrow"></i>
+										</a>
+										<ul class="collapse">
+											<li class="{{ Route::currentRouteName() === 'events' ? 'active-sub active' : '' }}">
+												<a href="{{ route('sermons') }}"><i class="fa fa-list"></i> All Sermons</a>
+											</li>
+											<li class="{{ Route::currentRouteName() === 'member.register.form' ? 'active-sub active' : '' }}">
+												<a href="{{route('sermons.create')}}"><i class="fa fa-registered"></i> Create Sermon</a>
+                      </li>
+										</ul>
+									</li>
+
+									
 									<!--Menu list item-->
-                  <li class="{{Route::currentRouteName() === 'attendance.analysis' || Route::currentRouteName() === 'attendance.view.form' ? 'active-sub active' : ''}}
+                  
+									<li class="{{Route::currentRouteName() === 'attendance.analysis' || Route::currentRouteName() === 'attendance.view.form' ? 'active-sub active' : ''}}
 									{{Route::currentRouteName() === 'attendance' ? 'active-sub active' : ''}}">
 										<a href="#">
 											<i class="fa fa-check"></i>
@@ -488,7 +526,7 @@
 			<!-- Visible when footer positions are static -->
 			<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 			<div class="hide-fixed pull-right pad-rgt">
-			Powered By <a href="https://myckhel.adbin.com.ng" style="color:#274868;font-weight:bolder"> Myckhel </a>
+			Powered By <a href="" style="color:#274868;font-weight:bolder"> automationeye </a>
 			</div>
 			<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 			<!-- Remove the class "show-fixed" and "hide-fixed" to make the content always appears. -->

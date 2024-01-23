@@ -22,7 +22,7 @@ class EventController extends Controller
         $pastors = Member::whereIn('position', ['senior pastor', 'pastor'])
             ->where('branch_id', $user->id)->get();
         $events = Event::where('events.branch_id', $user->id)->get();
-        return view('calendar.index', compact('events', 'pastors'));
+        return view('events.index', compact('events', 'pastors'));
     }
     //->where('events.assign_to', 'like', '%members.id,%')
     /**
@@ -33,6 +33,17 @@ class EventController extends Controller
     public function create()
     {
         //
+        return view('events.create');
+    }
+
+    public function showevents(){
+        $user = \Auth::user();
+        $pastors = Member::whereIn('position', ['senior pastor', 'pastor'])
+            ->where('branch_id', $user->id)->get();
+        $events = Event::where('events.branch_id', $user->id)
+        ->orderBy('id','DESC')
+        ->get();
+        return view('events.index', compact('events', 'pastors'));
     }
 
     /**
@@ -44,11 +55,11 @@ class EventController extends Controller
     public function store(Request $request)
     {
         $this->validate($request, [
-            'branch_id' => 'required|numeric|min:0',
+            
             'title' => 'required|string|min:0',
             'location' => 'required|string|min:0',
             'time' => 'required|string|min:0',
-            'by_who' => 'required|string|min:0',
+           
             'date' => 'required|date ',
         ]);
         $assign_to = implode(",", $request->get('assign') ?? []);
@@ -58,7 +69,7 @@ class EventController extends Controller
             'location' => $request->get('location'),
             'time' => $request->get('time'),
             'assign_to' => $assign_to,
-            'by_who' => $request->get('by_who'),
+            'by_who' => \Auth::user()->id,
             'details' => $request->get('details'),
             'branch_id' => $user = \Auth::user()->id,
 
@@ -73,7 +84,7 @@ class EventController extends Controller
                 ->send(new EventNotice($request));
         }
 
-        return redirect()->route('calendar')->with('status', 'Event successfully saved');
+        return redirect()->route('events')->with('status', 'Event successfully saved');
     }
 
     /**

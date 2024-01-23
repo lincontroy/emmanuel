@@ -11,15 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('landing');
-});
+Route::get('/', 'VisitorController@landing')->name('landing');
 Route::get('/about', function () {
     return view('about');
 });
-Route::get('/events', function () {
-    return view('events');
-});
+Route::get('/events', 'VisitorController@events')->name('events');
 Route::get('/gallery', function () {
     return view('gallery');
 });
@@ -102,11 +98,22 @@ Route::group(['middleware' => ['auth']], function () {
     Route::get('/collection/history', 'CollectionController@history')->name('collection.history');
     Route::get('/collection/stats', 'CollectionController@collectionStats')->name('collection.stats');
 
-    // calendar
+    // events
     Route::get('/calendar', 'EventController@index')->name('calendar');
-    Route::post('/calendar', 'EventController@store')->name('calendar.update');
-    Route::get('/calendar/{id}/delete', 'EventController@destroy')->name('calendar.delete');
-    Route::get('/get-relative/{search_term}', 'MemberController@getRelative')->name('relative');
+
+    Route::get('/events/all', 'EventController@showevents')->name('events.all');
+    Route::get('/events/create', 'EventController@create')->name('events.create');
+    Route::post('/events/store', 'EventController@store')->name('events.store');
+
+    //sermons
+
+    Route::get('/sermons', 'SermonsController@index')->name('sermons');
+    Route::get('/sermons/create', 'SermonsController@create')->name('sermons.create');
+    Route::post('/sermons/store', 'SermonsController@store')->name('sermons.store');
+
+    // Route::post('/calendar', 'EventController@store')->name('calendar.update');
+    // Route::get('/calendar/{id}/delete', 'EventController@destroy')->name('calendar.delete');
+    // Route::get('/get-relative/{search_term}', 'MemberController@getRelative')->name('relative');
 
     Route::get('/gallery', 'HomeController@gallery')->name('gallery');
 

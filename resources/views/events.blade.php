@@ -30,23 +30,25 @@
                                     <div class="events-main-wrapper events-grid events-style-3">
                                         <div class="row">
 
+                                        @foreach($events as $event)
+
                                             <!-- Col-md -->
                                             <div class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="images/events/grid2/event-1.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/images/chapel.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
-														<div class="event-date mb-2">Dec 18<span class="event-time">8.00 am</span>
+														<div class="event-date mb-2">{{$event->date}}<span class="event-time">{{$event->time}}</span>
 														</div>
                                                         <div class="event-title pt-1 mb-3">
-															<h5><a href="event-details.html">Our Sponsorship Meetup Will Be Held Again</a></h5>
+															<h5><a href="">{{$event->title}}</a></h5>
 														</div>
 														<div class="read-more">
-															<a href="event-details.html">Read More</a>
+															<a href="">{{$event->description}}</a>
 														</div>                                                        
                                                     </div>
                                                     <!--events details-->
@@ -55,130 +57,9 @@
                                             </div>
                                             <!--Col-md Ends-->
 
-                                            <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
-                                                <!--events Inner-->
-                                                <div class="events-inner margin-bottom-35">
-                                                    <!--events Thumb-->
-													<div class="events-thumb margin-bottom-30 relative">
-														<img src="images/events/grid2/event-2.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
-													</div>
-                                                    <!--events details-->
-                                                    <div class="events-details pad-none">
-														<div class="event-date mb-2">Mar 3<span class="event-time">7.00 am</span>
-														</div>
-                                                        <div class="event-title pt-1 mb-3">
-															<h5><a href="event-details.html">Event: Reflect The Community And Serving</a></h5>
-														</div>
-														<div class="read-more">
-															<a href="event-details.html">Read More</a>
-														</div>                                                        
-                                                    </div>
-                                                    <!--events details-->
-                                                </div>
-                                                <!--events Inner Ends-->
-                                            </div>
-                                            <!--Col-md Ends-->
-
-                                            <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
-                                                <!--events Inner-->
-                                                <div class="events-inner margin-bottom-35">
-                                                    <!--events Thumb-->
-													<div class="events-thumb margin-bottom-30 relative">
-														<img src="images/events/grid2/event-3.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
-													</div>
-                                                    <!--events details-->
-                                                    <div class="events-details pad-none">
-														<div class="event-date mb-2">Apr 10<span class="event-time">6.00 am</span>
-														</div>
-                                                        <div class="event-title pt-1 mb-3">
-															<h5><a href="event-details.html">New Families During National Adoption Month</a></h5>
-														</div>
-														<div class="read-more">
-															<a href="event-details.html">Read More</a>
-														</div>                                                        
-                                                    </div>
-                                                    <!--events details-->
-                                                </div>
-                                                <!--events Inner Ends-->
-                                            </div>
-                                            <!--Col-md Ends-->
-
-                                            <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
-                                                <!--events Inner-->
-                                                <div class="events-inner margin-bottom-35">
-                                                    <!--events Thumb-->
-													<div class="events-thumb margin-bottom-30 relative">
-														<img src="images/events/grid2/event-4.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
-													</div>
-                                                    <!--events details-->
-                                                    <div class="events-details pad-none">
-														<div class="event-date mb-2">Mar 4<span class="event-time">12.00 pm</span>
-														</div>
-                                                        <div class="event-title pt-1 mb-3">
-															<h5><a href="event-details.html">Event: Lord is Sufficient for all of our needs</a></h5>
-														</div>
-														<div class="read-more">
-															<a href="event-details.html">Read More</a>
-														</div>                                                        
-                                                    </div>
-                                                    <!--events details-->
-                                                </div>
-                                                <!--events Inner Ends-->
-                                            </div>
-                                            <!--Col-md Ends-->
-
-                                            <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
-                                                <!--events Inner-->
-                                                <div class="events-inner margin-bottom-35">
-                                                    <!--events Thumb-->
-													<div class="events-thumb margin-bottom-30 relative">
-														<img src="images/events/grid2/event-5.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
-													</div>
-                                                    <!--events details-->
-                                                    <div class="events-details pad-none">
-														<div class="event-date mb-2">Apr 8<span class="event-time">5.00 pm</span>
-														</div>
-                                                        <div class="event-title pt-1 mb-3">
-															<h5><a href="event-details.html">Event: Building Holy & Healthy Lives God’s</a></h5>
-														</div>
-														<div class="read-more">
-															<a href="event-details.html">Read More</a>
-														</div>                                                        
-                                                    </div>
-                                                    <!--events details-->
-                                                </div>
-                                                <!--events Inner Ends-->
-                                            </div>
-                                            <!--Col-md Ends-->
-
-                                            <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
-                                                <!--events Inner-->
-                                                <div class="events-inner margin-bottom-35">
-                                                    <!--events Thumb-->
-													<div class="events-thumb margin-bottom-30 relative">
-														<img src="images/events/grid2/event-6.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
-													</div>
-                                                    <!--events details-->
-                                                    <div class="events-details pad-none">
-														<div class="event-date mb-2">Dec 18<span class="event-time">11.00 am</span>
-														</div>
-                                                        <div class="event-title pt-1 mb-3">
-															<h5><a href="event-details.html">Event: Sharing Our Faith & Love To Children</a></h5>
-														</div>
-														<div class="read-more">
-															<a href="event-details.html">Read More</a>
-														</div>                                                        
-                                                    </div>
-                                                    <!--events details-->
-                                                </div>
-                                                <!--events Inner Ends-->
-                                            </div>
-                                            <!--Col-md Ends-->                                                                                     
+                                        @endforeach
+                                  
+                                                                                                                         
 
                                         </div>
                                         <!-- events Row -->
