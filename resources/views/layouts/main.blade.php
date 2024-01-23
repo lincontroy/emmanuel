@@ -183,11 +183,7 @@
     <!--Zmm Wrapper-->
     <div class="zmm-wrapper"> <a href="index.html#" class="zmm-close close"></a>
         <div class="zmm-inner bg-white typo-dark">
-            <div class="text-center mobile-logo-part margin-bottom-30">            
-                
-        
-        
-            </div>
+            
             <div class="zmm-main-nav"> </div>
             <div class="search-form-wrapper margin-top-30">
                 <form class="search-form" role="search">
@@ -326,7 +322,9 @@
                                                    
                                                     
                                                  
-                                                    <li><a href="/contact">Contact Us</a></li>
+                                                    <li class="">
+                                                        <a href="/contact">Contact Us</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <!--List Item End-->
@@ -352,7 +350,7 @@
     </div>
     <!--page-wrapper-->
     <!-- Footer -->
-    <footer id="footer" class="footer footer-1 footer-bg-img" data-bg="images/bg/footer-bg.jpg">
+    <footer id="footer" class="footer footer-1 footer-bg-img" data-bg="web/rs-plugin/assets/b.jpg">
         <!--Footer Widgets Columns Posibilities 4-->
         <div class="footer-widgets">
             <div class="footer-middle-wrap footer-overlay-dark">
