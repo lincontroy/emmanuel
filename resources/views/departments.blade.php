@@ -2,7 +2,7 @@
 @section('content')
 
 <div class="page-title-wrap typo-white">
-                <div class="page-title-wrap-inner section-bg-img" data-bg="web/rs-plugin/assets/global.jpg">
+                <div class="page-title-wrap-inner section-bg-img" data-bg="">
 					<span class="theme-overlay"></span>
                     <div class="container">
                         <div class="row text-center">
@@ -36,7 +36,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/church.webp" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/rs-plugin/assets/p.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
@@ -61,7 +61,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/worship.webp" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/rs-plugin/assets/s.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
@@ -111,7 +111,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/media.avif" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/rs-plugin/assets/mediateam.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
@@ -136,7 +136,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/unity.webp" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/rs-plugin/assets/v.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
@@ -161,7 +161,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/disciples.png " class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/rs-plugin/assets/d5.jpg " class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
@@ -189,7 +189,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/church.webp" class="img-fluid thumb w-100" width="768" height="350" alt="events-img" />
+														<img src="web/rs-plugin/assets/54.jpg" class="img-fluid thumb w-100" width="768" height="350" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
@@ -214,7 +214,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/finance.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/rs-plugin/assets/fin.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">
@@ -239,7 +239,7 @@
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
 													<div class="events-thumb margin-bottom-30 relative">
-														<img src="web/rs-plugin/assets/disciples.png " class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+														<img src="web/rs-plugin/assets/92.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
 													</div>
                                                     <!--events details-->
                                                     <div class="events-details pad-none">

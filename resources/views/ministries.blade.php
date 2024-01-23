@@ -127,7 +127,7 @@
 																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Music Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
-																<p>Music is something we get exposed to from childhood through adulthood. From the pattering sounds from raindrops, whistle of</p>
+																<p>Music is something we get exposed to from childhood through adulthood. We nurture talents and abilities</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
 																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
@@ -153,7 +153,7 @@
 																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Praise And Worship</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
-																<p>Our Family ministry often takes the shape of family-targeted dealing with various life issues and counseling services for families</p>
+																<p>Our musical and vibrant praise and worship team inspire and touch lives of congregants.</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
 																<a target="_blank" href="ministries-single.html" class="link">Read More</a>

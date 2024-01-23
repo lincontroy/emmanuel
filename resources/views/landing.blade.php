@@ -320,7 +320,7 @@
                                         </div> <!-- Feature Box End -->
                                     </div>
                                     <div class="button-section margin-top-35"> <a class="btn btn-default"
-                                            href="about-us.html" title="Learn More">Learn More</a> </div>
+                                            href="/about" title="Learn More">Learn More</a> </div>
                                 </div> <!-- Col -->
                             </div> <!-- Row -->
                         </div> <!-- Container -->
@@ -341,7 +341,7 @@
                                                 <!-- video button -->
                                                 <div class="video-play-btn text-center">
                                                     <div class="video-icon"> <a class="popup-youtube box-shadow1"
-                                                            href="https://www.youtube.com/"> <i
+                                                            href="https://www.youtube.com/channel/UCKCKWbNti31vgVbl0-LbvJw"> <i
                                                                 class="ti-heart"></i> </a> </div>
                                                 </div>
                                             </div> <!-- video details End-->
@@ -353,7 +353,7 @@
                                                     class="dancing-text">Real Story Cross Journey </span>
                                             </div>
                                             <div class="get-quote-btn"> <a class="btn btn-default"
-                                                    href="donate-now.html" title="Donate Online">Donate Online</a>
+                                                    href="/ministries" title="ministries">Read About Our Ministries</a>
                                             </div>
                                         </div>
                                     </div>
@@ -412,7 +412,7 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/wo.jpg" width="360"
+                                                        src="web/rs-plugin/assets/women.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
@@ -474,8 +474,7 @@
                                                                 Ministry</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>Music is something we get exposed to from childhood through
-                                                            adulthood. From the pattering sounds from raindrops</p>
+                                                        <p>Music is something we get exposed to from childhood through adulthood. We nurture talents and abilities</p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank"
                                                             href="music-ministry.html" class="link">Read More</a> </div>

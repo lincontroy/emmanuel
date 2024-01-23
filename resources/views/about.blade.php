@@ -159,7 +159,7 @@
 												<div class="team-thumb mb-0 relative">
 													<!--Team Overlay-->
 													<div class="team-overlay"></div>
-													<img src="web/rs-plugin/assets/bishop.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<img src="web/rs-plugin/assets/bishoperickimage.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
 													<div class="team-overlay-details top-left-overlay typo-white text-center">
 														<div class="social-icons">
 															<a href="https://www.facebook.com/BishopErickMwangi"><span class="ti-facebook"></span></a>

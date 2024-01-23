@@ -251,15 +251,25 @@
                             </ul>
                             <ul class="nav topbar-items pull-right">
                                 <li class="nav-item">
-                                    <div class="social-icons typo-white"> <a href="https://www.facebook.com/NewBreedCityChapel" class="social-fb"><span
-                                                class="ti-facebook"></span></a> <a href="index.html#"
-                                            class="social-twitter"><span class="ti-twitter"></span></a> <a
-                                            href="index.html#" class="social-instagram"><span
-                                                class="ti-instagram"></span></a> <a href="index.html#"
-                                            class="social-pinterest"><span class="ti-pinterest"></span></a> <a
-                                            href="index.html#" class="social-youtube"><span
-                                                class="ti-youtube"></span></a> <a href="index.html#"
-                                            class="social-dribble"><span class="ti-dribbble"></span></a> </div>
+                                    <div class="social-icons typo-white"> 
+                                        <a href="https://www.facebook.com/NewBreedCityChapel" class="social-fb">
+                                            <span class="ti-facebook"></span>
+                                        </a> 
+                                            <a href="https://twitter.com/newbreedcity" class="social-twitter">
+                                               <span class="ti-twitter"></span>
+                                            </a>
+
+                                             <a href="https://www.instagram.com/newbreedcity_chapel/" class="social-instagram">
+                                                <span class="ti-instagram"></span>
+                                            </a> 
+
+                                        
+
+                                            <a href="https://www.youtube.com/channel/UCKCKWbNti31vgVbl0-LbvJw" class="social-youtube">
+                                                <span class="ti-youtube"></span>
+                                            </a> 
+
+                                             </div>
                                 </li>
                                 <li><a href="index.html#" class="full-view-switch text-center"><i
                                             class="ti-search typo-white"></i></a></li>
@@ -283,9 +293,9 @@
                                     <div class="">
                                         <!--Overlay Menu Switch-->
                                         <ul class="nav navbar-items pull-left">
-                                            <li class="list-item"> <a href="index.html" class="logo-general"><img
+                                            <li class="list-item"> <a href="/" class="logo-general"><img
                                                         src="web/images/newbreed.png" class="img-fluid changeable-light"
-                                                        width="166" height="50" alt="Logo" /></a> <a href="index.html"
+                                                        width="166" height="50" alt="Logo" /></a> <a href="/"
                                                     class="logo-sticky"><img src="web/images/newbreed.png"
                                                         class="img-fluid changeable-dark" width="166" height="100"
                                                         alt="Logo" /></a> </li>
@@ -365,12 +375,22 @@
                             <div class="widget-text margin-bottom-30">
                                 <p>New Breed City Chapel</p>
                             </div>
-                            <div class="social-icons"> <a href="https://www.facebook.com/NewBreedCityChapel/" class="social-fb"><span
-                                        class="ti-facebook"></span></a> <a href="index.html#"
-                                    class="social-twitter"><span class="ti-twitter"></span></a> <a href="index.html#"
-                                    class="social-instagram"><span class="ti-instagram"></span></a> <a
-                                    href="index.html#" class="social-pinterest"><span class="ti-pinterest"></span></a>
-                                <a href="index.html#" class="social-youtube"><span class="ti-youtube"></span></a> </div>
+                            <div class="social-icons"> 
+                                <a href="https://www.facebook.com/NewBreedCityChapel/" class="social-fb">
+                                    <span class="ti-facebook"></span>
+                                </a>
+                                
+                                <a href="https://twitter.com/newbreedcity" class="social-twitter">
+                                    <span class="ti-twitter"></span>
+                                </a> 
+                                <a href="https://www.instagram.com/newbreedcity_chapel/" class="social-instagram">
+                                    <span class="ti-instagram"></span>
+                                </a> 
+                               
+                                <a href="https://www.youtube.com/channel/UCKCKWbNti31vgVbl0-LbvJw" class="social-youtube">
+                                    <span class="ti-youtube"></span>
+                                </a> 
+                            </div>
                         </div> <!-- Col -->
                         <div class="col-lg-3 widget text-widget">
                             <div class="widget-title">
@@ -379,7 +399,7 @@
                             </div> <!-- Text -->
                             <div class="menu-quick-links">
                                 <ul class="menu">
-                                    <li class="menu-item"><a href="index.html#">Who We Are?</a></li>
+                                    <li class="menu-item"><a href="/about">Who We Are?</a></li>
                                     <li class="menu-item"><a href="index.html#">Support and FAQ’s</a></li>
                                     <li class="menu-item"><a href="index.html#">Payments</a></li>
                                     <li class="menu-item"><a href="index.html#">Donations Terms</a></li>
