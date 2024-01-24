@@ -315,9 +315,9 @@
                                                         <ul class="dropdown-menu">
                                                                 <li><a >Mission</a></li>
                                                                 <li><a href="/about#vision">Vision</a></li>
-                                                                <li><a href="">Leadership Structure</a></li>
-                                                                <li><a href="">Apostolic Counsel</a></li>
-                                                                <li><a href="">Dream Team</a></li>                                                         
+                                                                <li><a href="/about#leaders">Leadership Structure</a></li>
+                                                                <li><a href="/about#apostles">Apostolic Counsel</a></li>
+                                                                <li><a href="/about#dreamteam">Dream Team</a></li>                                                         
 
                                                         </ul>
 
@@ -349,35 +349,35 @@
                                                     <li class="dropdown dropdown-sub"><a href="/departments">Departments</a>
                                                    
                                                         <ul class="dropdown-menu">
-                                                                <li><a href="/department#protocol">Protocol</a></li>
-                                                                <li><a href="/department#praise">Praise and Worship</a></li>
-                                                                <li><a href="/department#sound">Sound</a></li>
-                                                                <li><a href="/department#media">Media Team</a></li>
-                                                                <li><a href="/department#visitors">Visitors</a></li>
-                                                                <li><a href="/department#discipleship">Discipleship</a></li>   
-                                                                <li><a href="/department#grounds">Grounds</a></li>
-                                                                <li><a href="/department#finance">Finance</a></li>
-                                                                <li><a href="/department#bishop">Bishop</a></li>                                                        
+                                                                <li><a href="/departments#protocol">Protocol</a></li>
+                                                                <li><a href="/departments#praise">Praise and Worship</a></li>
+                                                                <li><a href="/departments#sound">Sound</a></li>
+                                                                <li><a href="/departments#media">Media Team</a></li>
+                                                                <li><a href="/departments#visitors">Visitors</a></li>
+                                                                <li><a href="/departments#discipleship">Discipleship</a></li>   
+                                                                <li><a href="/departments#grounds">Grounds</a></li>
+                                                                <li><a href="/departments#finance">Finance</a></li>
+                                                                <li><a href="/departments#bishop">Bishop</a></li>                                                        
 
                                                         </ul>
 
                                                     </li>
 
 
-                                                    <li class="dropdown dropdown-sub"> <a href="/contact">Branches</a>
+                                                    <li class="dropdown dropdown-sub"> <a href="/about#branches">Branches</a>
 
                                                     <ul class="dropdown-menu">
-                                                                <li><a href="hq">NBC HQ</a></li>
-                                                                <li><a href="thome">NBC Thome</a></li>
-                                                                <li><a href="kasarani">NBC Kasarani</a></li>
-                                                                <li><a href="kitengela">NBC Kitengela</a></li>
-                                                                <li><a href="rongai">NBC Rongai</a></li>
-                                                                <li><a href="nakuru">NBC Nakuru</a></li>  
-                                                                <li><a href="kisumu">NBC Kisumu</a></li>
-                                                                <li><a href="kakamega">NBC Kakamega</a></li>
-                                                                <li><a href="abuja">NBC Abuja</a></li>
-                                                                <li><a href="dallas">NBC Dallas</a></li>
-                                                                <li><a href="diaspora">NBC Diaspora</a></li>                                                       
+                                                                <li><a href="/about#branches">NBC HQ</a></li>
+                                                                <li><a href="/about#branches">NBC Thome</a></li>
+                                                                <li><a href="/about#branches">NBC Kasarani</a></li>
+                                                                <li><a href="/about#branches">NBC Kitengela</a></li>
+                                                                <li><a href="/about#branches">NBC Rongai</a></li>
+                                                                <li><a href="/about#branches">NBC Nakuru</a></li>  
+                                                                <li><a href="/about#branches">NBC Kisumu</a></li>
+                                                                <li><a href="/about#branches">NBC Kakamega</a></li>
+                                                                <li><a href="/about#branches">NBC Abuja</a></li>
+                                                                <li><a href="/about#branches">NBC Dallas</a></li>
+                                                                <li><a href="/about#branches">NBC Diaspora</a></li>                                                       
 
                                                         </ul>
 
