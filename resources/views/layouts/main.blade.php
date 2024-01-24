@@ -286,7 +286,7 @@
                     <!--Topbar-->
                     <!--Sticky part-->
                     <div class="sticky-outer">
-                        <div class="sticky-head">
+                        <div class="sticky-head header-sticky">
                             <!--Navbar-->
                             <nav class="navbar nav-shadow">
                                 <div class="basic-container clearfix">
