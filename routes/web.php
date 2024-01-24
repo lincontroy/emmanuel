@@ -12,6 +12,7 @@
 */
 
 Route::get('/', 'VisitorController@landing')->name('landing');
+
 Route::get('/about', function () {
     return view('about');
 });
