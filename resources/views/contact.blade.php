@@ -1,19 +1,12 @@
 @extends('layouts.main')
 @section('content')
-
 <div class="page-title-wrap typo-white">
                 <div class="page-title-wrap-inner section-bg-img" data-bg="images/page-title.jpg">
 					<span class="theme-overlay"></span>
                     <div class="container">
                         <div class="row text-center">
                             <div class="col-md-12">
-                                <div class="page-title-inner">
-									<div id="breadcrumb" class="breadcrumb margin-bottom-10">
-                                        <a href="index.html" class="theme-color">Home</a>
-                                        <span class="current">Contact Us</span>
-                                    </div>
-                                    <h1 class="page-title mb-0">Contact Us</h1>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -155,29 +148,9 @@
                         </div>
                     </section>
                     <!-- Contact Form Section End -->					
-					<!-- Contact Map -->
-					<section class="contact-map pad-top-none">
-						<div class="container">
-                            <div class="row">
-                                <!-- col -->
-                                <div class="col-md-12"> 
-									<!-- Screan Reader Text -->
-									<h2 class="screen-reader-text">Map</h2>
-									<!-- Container Fluid -->
-									<div class="container-fluid pad-none">
-										<!-- Map -->
-										<div class="map mt-0">
-											<div id="site-google-map" class="b-radius-0" style="width:100%;height:400px;" data-map-style="Silver"></div>
-										</div>
-										<!-- Map -->
-									</div>
-									<!-- Container Fluid -->
-								</div>
-								<!-- col -->
-							</div>
-						</div>	
-					</section>
-					<!-- Contact Map End -->									
+				
+													
                 </div>
             </div>
-            @endsection
+
+@endsection

@@ -220,7 +220,7 @@
                             <div class="sticky-head">
                                 <div class="basic-container clearfix">
                                     <ul class="nav mobile-header-items pull-left">
-                                        <li class="nav-item"><a href="index.html#" class="zmm-toggle img-before"><i
+                                        <li class="nav-item"><a href="/" class="zmm-toggle img-before"><i
                                                     class="ti-menu"></i></a></li>
                                     </ul>
                                     <ul class="nav mobile-header-items pull-center">
@@ -1304,6 +1304,8 @@
     <script src="web/rs-plugin/js/main-slider/rs6.min.js"></script>
     <script src="web/rs-plugin/js/main-slider/home-1.js"></script> <!-- Color -->
     <script src="web/js/color-panel.js"></script>
+
+    
 </body><!-- Body End -->
 <!-- Body End -->
 
