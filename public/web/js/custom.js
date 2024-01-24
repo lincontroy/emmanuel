@@ -1588,11 +1588,11 @@
 			if( st > header_top ){
 				$(main_class + ' .sticky-head').addClass('header-sticky');
 			}else{
-				$(main_class + ' .sticky-head').removeClass('header-sticky');
+				// $(main_class + ' .sticky-head').removeClass('header-sticky');
 			}
 			
 			if( st == 0 ){
-				$(main_class + ' .sticky-head').removeClass('header-sticky');
+				// $(main_class + ' .sticky-head').removeClass('header-sticky');
 			}
 			
 			lastScrollTop = st;
