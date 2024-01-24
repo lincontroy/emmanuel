@@ -64,12 +64,12 @@
                             <!---->
                         </rs-slide>
                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/dominion.jpg"
+                            data-thumb="web/rs-plugin/assets/x.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/dominion.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/x.jpg" alt=" "
                                 title="zmain-slider-3.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/dominion.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/x.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
