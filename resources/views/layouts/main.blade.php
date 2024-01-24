@@ -304,37 +304,97 @@
                                             <!--List Item-->
                                             <li class="list-item">
                                                 <ul class="nav navbar-main menu-white">
-                                                    <li class=""><a
-                                                            href="/">Home</a>
+                                                    <li class=""><a href="/">Home</a>
                                                   
                                                     </li>
 
                                                     
 
-                                                    <li class=""><a href="/about">About Us</a>
+                                                    <li class="dropdown dropdown-sub"><a href="/about">About Us</a>
                                                    
+                                                        <ul class="dropdown-menu">
+                                                                <li><a >Mission</a></li>
+                                                                <li><a href="">Vision</a></li>
+                                                                <li><a href="">Leadership Structure</a></li>
+                                                                <li><a href="">Apostolic Counsel</a></li>
+                                                                <li><a href="">Dream Team</a></li>                                                         
+
+                                                        </ul>
+
                                                     </li>
 
-                                                    <li class=""><a
-                                                            href="/ministries">Ministries</a>
-                                                   
+                                                    <li class="dropdown dropdown-sub"><a href="/ministries">Ministries</a>
+                                                        <ul class="dropdown-menu">
+                                                                <li><a href="">Men</a></li>
+                                                                <li><a href="">Women</a></li>
+                                                                <li><a href="">Jawabu</a></li>
+                                                                <li><a href="">Teens</a></li>
+                                                                <li><a href="">Children</a></li>
+                                                                <li><a href="">Couples</a></li>                                                         
+
+                                                        </ul>
                                                     </li>
 
-                                                    <li class=""><a href="/events">Events</a>
-                                                   
+                                                    <li class="dropdown dropdown-sub"><a href="/events">Events</a>
+                                                        <ul class="dropdown-menu">
+                                                            <li> <a href="">Conference</a>
+                                                                
+                                                                <ul class="dropdown-menu child-dropdown-menu">
+                                                                        <li><a href="">Past</a></li>
+                                                                        <li><a href="">Current</a></li>
+                                                                        <li><a href="">Upcoming</a></li>
+                                                                        
+                                                                </ul>
+
+                                                            </li>
+                                                                <li><a href="">Camps</a></li>
+                                                                <li><a href="">Fun Days</a></li>
+                                                                <li><a href="">Gallery</a></li>
+                                                                                                                        
+
+                                                        </ul>
+
                                                     </li>
-                                                    <li class=""><a
-                                                            href="/departments">Departments</a>
+                                                    <li class="dropdown dropdown-sub"><a href="/departments">Departments</a>
                                                    
+                                                        <ul class="dropdown-menu">
+                                                                <li><a href="">Men</a></li>
+                                                                <li><a href="">Women</a></li>
+                                                                <li><a href="">Jawabu</a></li>
+                                                                <li><a href="">Teens</a></li>
+                                                                <li><a href="">Children</a></li>
+                                                                <li><a href="">Couples</a></li>                                                         
+
+                                                        </ul>
+
                                                     </li>
 
 
-                                                   
+                                                    <li class="dropdown dropdown-sub"> <a href="/contact">Branches</a>
+
+                                                    <ul class="dropdown-menu">
+                                                                <li><a href="">NBC HQ</a></li>
+                                                                <li><a href="">NBC Thome</a></li>
+                                                                <li><a href="">NBC Kasarani</a></li>
+                                                                <li><a href="">NBC Kitengela</a></li>
+                                                                <li><a href="">NBC Rongai</a></li>
+                                                                <li><a href="">NBC Nakuru</a></li>  
+                                                                <li><a href="">NBC Kisumu</a></li>
+                                                                <li><a href="">NBC Kakamega</a></li>
+                                                                <li><a href="">NBC Abuja</a></li>
+                                                                <li><a href="">NBC Dallas</a></li>
+                                                                <li><a href="">NBC Diaspora</a></li>                                                       
+
+                                                        </ul>
+
+                                                    </li>
                                                     
                                                  
                                                     <li class="">
                                                         <a href="/contact">Contact Us</a>
                                                     </li>
+
+                                                    
                                                 </ul>
                                             </li>
                                             <!--List Item End-->
