@@ -71,6 +71,7 @@
 										</div>
 										<!-- Feature Box End -->
 										<!-- Feature Box -->
+									
 										<div class="col-md-6">
 											<div class="feature-box-wrap f-box-style-1 relative">
 												<div class="feature-box-details">
@@ -84,6 +85,7 @@
 												</div>
 											</div>
 										</div>
+									
 										<!-- Feature Box End -->
 									</div>									
                                 </div>
@@ -136,6 +138,7 @@
                     </section>
                     <!-- Get a Quote Section End -->
                     <!-- Team Section -->
+					<div id="leaders">
 					<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
 						<div class="container">
 							<!-- Row -->
@@ -333,6 +336,7 @@
 						</div>
 						<!-- Container -->
 					</section>
+					</div>
 					<!-- Team Section End -->		
 					
 					
@@ -342,7 +346,7 @@
 
 
 
-
+				<div id="apostles">
 				<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
 						<div class="container">
 							<!-- Row -->
@@ -540,7 +544,9 @@
 						</div>
 						<!-- Container -->
 					</section>
+				</div>
 
+				<div id=dreamteam>
 					<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
 						<div class="container">
 							<!-- Row -->
@@ -738,6 +744,10 @@
 						</div>
 						<!-- Container -->
 					</section>
+				</div>
+
+
+				<div id="branches">
 
 					<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
 						<div class="container">
@@ -755,7 +765,7 @@
 								<!--Team Main Slider-->
 								<div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
 									<!--Item-->
-									<div class="item">
+									<div id="hq" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -785,7 +795,7 @@
 									</div>
 									<!--Item Ends-->
 									<!--Item-->
-									<div class="item">
+									<div id="thome" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -814,7 +824,7 @@
 									</div>
 									<!--Item Ends-->
 									<!--Item-->
-									<div class="item">
+									<div id="kasarani" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -843,7 +853,7 @@
 									</div>
 									<!--Item Ends-->
 									<!--Item-->
-									<div class="item">
+									<div id="kitengela" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -872,7 +882,7 @@
 									</div>
 									<!--Item Ends-->
 									<!--Item-->
-									<div class="item">
+									<div id="rongai" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -901,7 +911,7 @@
 									</div>
 									<!--Item Ends-->
 									<!--Item-->
-									<div class="item">
+									<div id="nakuru" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -932,7 +942,7 @@
 
 
 									<!--Item-->
-									<div class="item">
+									<div id="kisumu" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -963,7 +973,7 @@
 
 
 									<!--Item-->
-									<div class="item">
+									<div id="kakamega" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -991,7 +1001,7 @@
 										</div>
 									</div>
 									<!--Item Ends--><!--Item-->
-									<div class="item">
+									<div id="abuja" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -1022,7 +1032,7 @@
 
 
 									<!--Item-->
-									<div class="item">
+									<div id="dallas" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -1052,7 +1062,7 @@
 									<!--Item Ends-->
 
 									<!--Item-->
-									<div class="item">
+									<div id="diaspora" class="item">
 										<div class="team-style-1">
 											<!--Team Inner-->										
 											<div class="team-inner margin-bottom-20">												
@@ -1092,6 +1102,7 @@
 						</div>
 						<!-- Container -->
 					</section>
+				</div>
 
 					</div>
             </div>

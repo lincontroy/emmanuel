@@ -35,7 +35,7 @@
 										<!-- Row -->
 										<div class="row">
 											<!-- Col -->
-											<div class="col-md-6">
+											<div id="children" class="col-md-6">
 												<div class="ministries-box-style-2">
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
@@ -61,7 +61,7 @@
 											</div>
 											<!-- Col -->
 											<!-- Col -->
-											<div class="col-md-6">
+											<div id="women" class="col-md-6">
 												<div class="ministries-box-style-2">
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">

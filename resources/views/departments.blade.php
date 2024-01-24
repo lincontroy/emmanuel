@@ -31,7 +31,7 @@
                                         <div class="row">
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="protocol" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -56,7 +56,7 @@
                                             <!--Col-md Ends-->
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="praise" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -81,7 +81,7 @@
                                             <!--Col-md Ends-->
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="sound" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -106,7 +106,7 @@
                                             <!--Col-md Ends-->
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="media" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -131,7 +131,7 @@
                                             <!--Col-md Ends-->
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="visitors" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -156,7 +156,7 @@
                                             <!--Col-md Ends-->
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="discipleship" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -184,7 +184,7 @@
 
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="grounds" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -209,7 +209,7 @@
                                             <!--Col-md Ends-->
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="finance" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->
@@ -234,7 +234,7 @@
                                             <!--Col-md Ends-->
 
                                             <!-- Col-md -->
-                                            <div class="col-lg-4 col-md-6">
+                                            <div id="bishop" class="col-lg-4 col-md-6">
                                                 <!--events Inner-->
                                                 <div class="events-inner margin-bottom-35">
                                                     <!--events Thumb-->

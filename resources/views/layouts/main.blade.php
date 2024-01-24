@@ -314,7 +314,7 @@
                                                    
                                                         <ul class="dropdown-menu">
                                                                 <li><a >Mission</a></li>
-                                                                <li><a href="">Vision</a></li>
+                                                                <li><a href="/about#vision">Vision</a></li>
                                                                 <li><a href="">Leadership Structure</a></li>
                                                                 <li><a href="">Apostolic Counsel</a></li>
                                                                 <li><a href="">Dream Team</a></li>                                                         
@@ -325,28 +325,19 @@
 
                                                     <li class="dropdown dropdown-sub"><a href="/ministries">Ministries</a>
                                                         <ul class="dropdown-menu">
-                                                                <li><a href="">Men</a></li>
-                                                                <li><a href="">Women</a></li>
+                                                                <li><a href="">Mwanaume</a></li>
+                                                                <li><a href="">Mrembo</a></li>
                                                                 <li><a href="">Jawabu</a></li>
                                                                 <li><a href="">Teens</a></li>
-                                                                <li><a href="">Children</a></li>
-                                                                <li><a href="">Couples</a></li>                                                         
+                                                                <li><a href="">Children's Church</a></li>
+                                                                <li><a href="">Wapenzi</a></li>                                                         
 
                                                         </ul>
                                                     </li>
 
                                                     <li class="dropdown dropdown-sub"><a href="/events">Events</a>
                                                         <ul class="dropdown-menu">
-                                                            <li> <a href="">Conference</a>
-                                                                
-                                                                <ul class="dropdown-menu child-dropdown-menu">
-                                                                        <li><a href="">Past</a></li>
-                                                                        <li><a href="">Current</a></li>
-                                                                        <li><a href="">Upcoming</a></li>
-                                                                        
-                                                                </ul>
-
-                                                            </li>
+                                                                <li> <a href="">Conference</a> </li>
                                                                 <li><a href="">Camps</a></li>
                                                                 <li><a href="">Fun Days</a></li>
                                                                 <li><a href="">Gallery</a></li>
@@ -358,12 +349,15 @@
                                                     <li class="dropdown dropdown-sub"><a href="/departments">Departments</a>
                                                    
                                                         <ul class="dropdown-menu">
-                                                                <li><a href="">Men</a></li>
-                                                                <li><a href="">Women</a></li>
-                                                                <li><a href="">Jawabu</a></li>
-                                                                <li><a href="">Teens</a></li>
-                                                                <li><a href="">Children</a></li>
-                                                                <li><a href="">Couples</a></li>                                                         
+                                                                <li><a href="/department#protocol">Protocol</a></li>
+                                                                <li><a href="/department#praise">Praise and Worship</a></li>
+                                                                <li><a href="/department#sound">Sound</a></li>
+                                                                <li><a href="/department#media">Media Team</a></li>
+                                                                <li><a href="/department#visitors">Visitors</a></li>
+                                                                <li><a href="/department#discipleship">Discipleship</a></li>   
+                                                                <li><a href="/department#grounds">Grounds</a></li>
+                                                                <li><a href="/department#finance">Finance</a></li>
+                                                                <li><a href="/department#bishop">Bishop</a></li>                                                        
 
                                                         </ul>
 
@@ -373,17 +367,17 @@
                                                     <li class="dropdown dropdown-sub"> <a href="/contact">Branches</a>
 
                                                     <ul class="dropdown-menu">
-                                                                <li><a href="">NBC HQ</a></li>
-                                                                <li><a href="">NBC Thome</a></li>
-                                                                <li><a href="">NBC Kasarani</a></li>
-                                                                <li><a href="">NBC Kitengela</a></li>
-                                                                <li><a href="">NBC Rongai</a></li>
-                                                                <li><a href="">NBC Nakuru</a></li>  
-                                                                <li><a href="">NBC Kisumu</a></li>
-                                                                <li><a href="">NBC Kakamega</a></li>
-                                                                <li><a href="">NBC Abuja</a></li>
-                                                                <li><a href="">NBC Dallas</a></li>
-                                                                <li><a href="">NBC Diaspora</a></li>                                                       
+                                                                <li><a href="hq">NBC HQ</a></li>
+                                                                <li><a href="thome">NBC Thome</a></li>
+                                                                <li><a href="kasarani">NBC Kasarani</a></li>
+                                                                <li><a href="kitengela">NBC Kitengela</a></li>
+                                                                <li><a href="rongai">NBC Rongai</a></li>
+                                                                <li><a href="nakuru">NBC Nakuru</a></li>  
+                                                                <li><a href="kisumu">NBC Kisumu</a></li>
+                                                                <li><a href="kakamega">NBC Kakamega</a></li>
+                                                                <li><a href="abuja">NBC Abuja</a></li>
+                                                                <li><a href="dallas">NBC Dallas</a></li>
+                                                                <li><a href="diaspora">NBC Diaspora</a></li>                                                       
 
                                                         </ul>
 
