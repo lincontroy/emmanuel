@@ -325,12 +325,13 @@
 
                                                     <li class="dropdown dropdown-sub"><a href="/ministries">Ministries</a>
                                                         <ul class="dropdown-menu">
-                                                                <li><a href="">Mwanaume</a></li>
-                                                                <li><a href="">Mrembo</a></li>
-                                                                <li><a href="">Jawabu</a></li>
-                                                                <li><a href="">Teens</a></li>
-                                                                <li><a href="">Children's Church</a></li>
-                                                                <li><a href="">Wapenzi</a></li>                                                         
+                                                                <li><a href="/ministries#men">Mwanaume</a></li>
+                                                                <li><a href="/ministries#women">Mrembo</a></li>
+                                                                <li><a href="/ministries#children">Children's Church</a></li>
+                                                                <li><a href="/ministries#jawabu">Jawabu</a></li>
+                                                                <li><a href="/ministries#teens">Teens</a></li>
+                                                                <li><a href="/ministries#wapenzi">Wapenzi</a></li>  
+                                                                <li><a href="/ministries#deliverance">Deliverance</a></li>                                                    
 
                                                         </ul>
                                                     </li>

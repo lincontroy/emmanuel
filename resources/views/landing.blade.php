@@ -368,9 +368,8 @@
                             <div class="row">
                                 <div class="offset-md-2 col-md-8">
                                     <div class="title-wrap text-center">
-                                        <div class="section-title"> <span
-                                                class="sub-title theme-color text-uppercase">Ministries</span>
-                                            <h2 class="section-title margin-top-5">Our Ministries</h2> <span
+                                        <div class="section-title"> <span class="sub-title theme-color text-uppercase"> <a href="/ministries">Ministries</a></span>
+                                            <h2 class="section-title margin-top-5"> <a href="/ministries">Our Ministries </a></h2> <span
                                                 class="border-bottom center"></span>
                                         </div>
                                     </div>
@@ -386,20 +385,17 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/6.jpg" width="360"
+                                                        src="web/rs-plugin/assets/d5.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="childrens-ministry.html"
-                                                                class="ministries-link">Children's Ministry</a></h4>
+                                                        <h4><a href="/ministries#men" class="ministries-link">Mwanaume Ministry</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>Children’s ministry is the most important ministry in our
-                                                            church. This ministry helps kids learn about the Lord</p>
+                                                        <p>Men ministry invites gentlemen to fellowship and worship together in the house of The Lord.</p>
                                                     </div>
-                                                    <div class="ministries-link margin-top-20"> <a target="_blank"
-                                                            href="childrens-ministry.html" class="link">Read More</a>
+                                                    <div class="ministries-link margin-top-20"> <a target="_blank" href="/ministries#men" class="link">Read More</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- Ministries Inner Ends -->
@@ -417,16 +413,14 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="womens-ministry.html"
-                                                                class="ministries-link">Womens Ministry</a></h4>
+                                                        <h4><a href="/ministries#women"  class="ministries-link">Mrembo Ministry</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>A Women’s ministry includes hosting Bible studies, services,
-                                                            support group, and gathering events. The goal of this
-                                                            women’s</p>
+                                                        <p>Women’s ministry includes hosting Bible studies, services,
+                                                            support group, and gathering events. </p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank"
-                                                            href="womens-ministry.html" class="link">Read More</a>
+                                                            href="/ministries#women" class="link">Read More</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- Ministries Inner Ends -->
@@ -439,20 +433,19 @@
                                             <!-- Ministries Inner -->
                                             <div class="ministries-inner">
                                                 <div class="ministries-thumb"> <img class="img-fluid squared w-100"
-                                                        src="web/rs-plugin/assets/g.jpg" width="360"
+                                                        src="web/rs-plugin/assets/6.jpg" width="360"
                                                         height="240" alt="Agricultural Processing"> </div>
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="global-ministry.html"
-                                                                class="ministries-link">Global Ministry</a></h4>
+                                                        <h4><a href="/ministries#children"
+                                                                class="ministries-link">Children's Church Ministry</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>We are very grateful for our part in the work of Global
-                                                            Ministries and the opportunity to be</p>
+                                                        <p>Children’s ministry helps kids learn about the Lord Jesus</p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank"
-                                                            href="global-ministry.html" class="link">Read More</a>
+                                                            href="/ministries#children" class="link">Read More</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- Ministries Inner Ends -->
@@ -470,14 +463,13 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="music-ministry.html" class="ministries-link">Music
-                                                                Ministry</a></h4>
+                                                        <h4><a href="/ministries#jawabu" class="ministries-link">Jawabu Ministry</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>Music is something we get exposed to from childhood through adulthood. We nurture talents and abilities</p>
+                                                        <p>We are very grateful for our part in the work of Jawabu Ministries and the opportunity to be on</p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank"
-                                                            href="music-ministry.html" class="link">Read More</a> </div>
+                                                            href="/ministries#jawabu" class="link">Read More</a> </div>
                                                 </div>
                                             </div> <!-- Ministries Inner Ends -->
                                         </div>

@@ -35,31 +35,34 @@
 										<!-- Row -->
 										<div class="row">
 											<!-- Col -->
-											<div id="children" class="col-md-6">
+
+											<div id="men" class="col-md-6">
 												<div class="ministries-box-style-2">
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/6.jpg" width="360" height="240" alt=" Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/d5.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Children’s Ministry</a></h4>
+																<h4 class="text-center"><a href="/ministries#men" class="ministries-link">Mwanaume Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
-																<p>Children’s ministry is the most important ministry in our church. This ministry helps kids learn about the Lord Jesus</p>
+																<p>Men ministry invites gentlemen to fellowship and worship together in the house of The Lord.</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
-																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
+																<a target="_blank" href="/ministries#men" class="link">Read More</a>
 															</div>
 														</div>
 													</div>
 													<!-- Ministries Inner Ends -->
 												</div>
 											</div>
+
 											<!-- Col -->
+
 											<!-- Col -->
 											<div id="women" class="col-md-6">
 												<div class="ministries-box-style-2">
@@ -72,13 +75,13 @@
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Womens Ministry</a></h4>
+																<h4 class="text-center"><a href="/ministries#women" class="ministries-link">Mrembo Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
 																<p>A Women’s ministry includes hosting Bible studies, services, support group, and gathering events. The goal of this women’s ministry</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
-																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
+																<a target="_blank" href="/ministries#women" class="link">Read More</a>
 															</div>
 														</div>
 													</div>
@@ -86,8 +89,35 @@
 												</div>
 											</div>
 											<!-- Col -->
+
+											<div id="children" class="col-md-6">
+												<div class="ministries-box-style-2">
+													<!-- Ministries Inner -->
+													<div class="ministries-inner">
+														<div class="ministries-thumb">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/6.jpg" width="360" height="240" alt=" Processing">
+														</div>
+														
+														<!-- Ministries Content -->
+														<div class="ministries-content pad-lr-30 pad-top-20">
+															<div class="ministries-title margin-bottom-15">													
+																<h4 class="text-center"><a href="/ministries#children" class="ministries-link">Children’s Ministry</a></h4>
+															</div>
+															<div class="ministries-desc text-center">
+																<p>Children’s ministry helps kids learn about the Lord Jesus</p>
+															</div>
+															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
+																<a target="_blank" href="/ministries#children" class="link">Read More</a>
+															</div>
+														</div>
+													</div>
+													<!-- Ministries Inner Ends -->
+												</div>
+											</div>
+
+
 											<!-- Col -->
-											<div class="col-md-6">
+											<div id="jawabu" class="col-md-6">
 												<div class="ministries-box-style-2">
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
@@ -98,13 +128,13 @@
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Global Ministry</a></h4>
+																<h4 class="text-center"><a href="/ministries#jawabu" class="ministries-link">Jawabu Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
-																<p>We are very grateful for our part in the work of Global Ministries and the opportunity to be on</p>
+																<p>We are very grateful for our part in the work of Jawabu Ministries and the opportunity to be on</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
-																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
+																<a target="_blank" href="/ministries#jawabu" class="link">Read More</a>
 															</div>
 														</div>
 													</div>
@@ -113,24 +143,24 @@
 											</div>
 											<!-- Col -->
 											<!-- Col -->
-											<div class="col-md-6">
+											<div id="teens" class="col-md-6">
 												<div class="ministries-box-style-2">
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/music.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/t.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Music Ministry</a></h4>
+																<h4 class="text-center"><a href="/ministries#teens" class="ministries-link">Teens Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
-																<p>Music is something we get exposed to from childhood through adulthood. We nurture talents and abilities</p>
+																<p>Teens Ministry welcomes the young ones, our leaders of tomorrow to fellowship and bond in the house of the Lord.</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
-																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
+																<a target="_blank" href="/ministries#teens" class="link">Read More</a>
 															</div>
 														</div>
 													</div>
@@ -139,24 +169,24 @@
 											</div>
 											<!-- Col -->
 											<!-- Col -->
-											<div class="col-md-6">
+											<div id ="wapenzi" class="col-md-6">
 												<div class="ministries-box-style-2">
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
 														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/dance.jpg" width="360" height="240" alt="Agricultural Processing">
+															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/couple.jpg" width="360" height="240" alt="Agricultural Processing">
 														</div>
 														
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Praise And Worship</a></h4>
+																<h4 class="text-center"><a href="ministries#couple" class="ministries-link">Wapenzi Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
-																<p>Our musical and vibrant praise and worship team inspire and touch lives of congregants.</p>
+																<p> For those that destiny has united. </p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
-																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
+																<a target="_blank" href="/ministries#couple" class="link">Read More</a>
 															</div>
 														</div>
 													</div>
@@ -165,7 +195,7 @@
 											</div>
 											<!-- Col -->
 											<!-- Col -->
-											<div class="col-md-6">
+											<div id="deliverance" class="col-md-6">
 												<div class="ministries-box-style-2">
 													<!-- Ministries Inner -->
 													<div class="ministries-inner">
@@ -176,13 +206,13 @@
 														<!-- Ministries Content -->
 														<div class="ministries-content pad-lr-30 pad-top-20">
 															<div class="ministries-title margin-bottom-15">													
-																<h4 class="text-center"><a href="ministries-single.html" class="ministries-link">Deliverance Ministry</a></h4>
+																<h4 class="text-center"><a href="/ministries#deliverance" class="ministries-link">Deliverance Ministry</a></h4>
 															</div>
 															<div class="ministries-desc text-center">
 																<p>Salvation and spiritual deliverance to the kingdom of God.</p>
 															</div>
 															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
-																<a target="_blank" href="ministries-single.html" class="link">Read More</a>
+																<a target="_blank" href="/ministries#deliverance" class="link">Read More</a>
 															</div>
 														</div>
 													</div>
