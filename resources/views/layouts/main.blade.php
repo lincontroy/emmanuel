@@ -530,7 +530,7 @@
                             <ul class="footer-bottom-items footer-menu pull-right">
                                 <li class="nav-item"> <a href="index.html#">Privacy</a> </li>
                                 <li class="nav-item"> <a href="index.html#">Sermons</a> </li>
-                                <li class="nav-item"> <a href="index.html#">Contact Us</a> </li>
+                                <li class="nav-item"> <a href="/contact">Contact Us</a> </li>
                             </ul>
                         </div>
                     </div>

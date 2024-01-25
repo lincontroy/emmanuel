@@ -23,7 +23,7 @@
                             <div class="row">
                                 <!-- Col -->
                                 <div class="col-lg-4 mb-lg-0 mb-4">
-									<div class="div-bg-img b-radius-20" data-bg="images/contact/contact_bg1.jpg">
+									<div class="div-bg-img b-radius-20" data-bg="web/rs-plugin/assets/nab.jpg">
 										<div class="f-box c-page text-center typo-white">
 											<div class="feature-icon margin-bottom-10">
 												<i class="ti-location-pin"></i>
@@ -32,14 +32,14 @@
 												<div class="feature-title">
 													<h5 class="mb-2">Our Location</h5>
 												</div>
-												<p class="mb-0">684 West College St. Sun City, United States America.</p>
+												<p class="mb-0">Kiambu Road, KENYA</p>
 											</div>											
 										</div>
 									</div>
                                 </div>
                                 <!-- Col -->
                                 <div class="col-lg-4 mb-lg-0 mb-4">
-                                    <div class="div-bg-img b-radius-20" data-bg="images/contact/contact_bg2.jpg">
+                                    <div class="div-bg-img b-radius-20" data-bg="web/rs-plugin/assets/nla.jpg">
 										<div class="f-box c-page text-center typo-white">
 											<div class="feature-icon margin-bottom-10">
 												<i class="ti-headphone-alt"></i>
@@ -48,16 +48,16 @@
 												<div class="feature-title">
 													<h5 class="mb-2">Phone Number</h5>
 												</div>
-												<a href="tel:(+55)654-545-5418">(+55) 654 - 545 - 5418</a>
+												<a href="tel:(+55)654-545-5418">(+254) </a>
 												<br>
-												<a href="tel:(+55)654-545-1235">(+55) 654 - 545 - 1235</a>
+												<a href="tel:(+55)654-545-1235">(+254) </a>
 											</div>											
 										</div>
 									</div>
                                 </div>
                                 <!-- Col -->
                                 <div class="col-lg-4">
-                                    <div class="div-bg-img b-radius-20" data-bg="images/contact/contact_bg3.jpg">
+                                    <div class="div-bg-img b-radius-20" data-bg="web/rs-plugin/assets/pl.jpg">
 										<div class="f-box c-page text-center typo-white">
 											<div class="feature-icon margin-bottom-10">
 												<i class="ti-email"></i>
@@ -66,9 +66,9 @@
 												<div class="feature-title">
 													<h5 class="mb-2">Email Address</h5>
 												</div>
-												<a href="mailto:info@example.com">info@example.com</a>
+												<a href="mailto:info@.com">info@   .com</a>
 												<br>
-												<a href="mailto:info@zegen.com">info@zegen.com</a>
+												<a href="mailto:info@zegen.com">newbreedchapelcity@gmail.com</a>
 											</div>											
 										</div>
 									</div>
@@ -90,7 +90,7 @@
                                         <!-- Form -->
                                         <div class="contact-form-wrap">
                                             <!-- form inputs -->
-                                            <form id="contact-form" class="contact-form" action="https://zozothemes.com/html/zegen/inc/function.php" enctype="multipart/form-data">
+                                            <form id="contact-form" class="contact-form" action=" " enctype="multipart/form-data">
                                                 <div class="row">
                                                     <div class="col-md-12">
                                                         <!-- form group -->
@@ -140,7 +140,7 @@
                                 <!-- .col -->
                                 <div class="col-lg-4 pad-none">
                                     <div class="contact-img">
-                                        <img class="img-fluid" src="images/contact/contact_bg4.jpg" width="752" height="888" alt="Contact Map">
+                                        <img class="img-fluid" src="web/rs-plugin/assets/berick.jpg" width="752" height="888" alt="Contact Map">
                                     </div>
                                 </div>
                                  <!-- Col -->
