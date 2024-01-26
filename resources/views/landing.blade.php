@@ -457,11 +457,12 @@
                                             </p>
                                             <p class="styled-text">
                                                  <strong> 
-                                                "Sisi Ni Church Ya Wale Wasee!"
+                                                "Sisi       Ni    Church    Ya     Wale     Wasee!"
                                                 </strong>
                                             </p>
                                         </div>
-                                    </div>
+                                    </div> 
+                                    <br> <br>
                                     <div class="row">
                                         <!-- Feature Box -->
                                         <div class="col-md-6">
@@ -478,6 +479,7 @@
                                                 </div>
                                             </div>
                                         </div> <!-- Feature Box End -->
+                                        <br> <br> 
                                         <!-- Feature Box -->
                                         <div class="col-md-6">
                                             <div class="feature-box-wrap f-box-style-1 relative">
@@ -749,16 +751,10 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#men" class="ministries-link">M-PESA GIVING</a></h4>
+                                                        <h4><a href="" class="ministries-link">M-PESA GIVING</a></h4>
                                                     </div>
 
-                                                    <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#men" class="ministries-link">PAY VIA MPESA</a></h4>
-                                                    </div>
-
-                                                    <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#men" class="ministries-link">PAY VIA PAYBILL</a></h4>
-                                                    </div>
+                                                
                                                     
                                                     
                                                 </div>
@@ -775,7 +771,7 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#women"  class="ministries-link">WAVE GIVING </a></h4>
+                                                        <h4><a href=""  class="ministries-link">WAVE GIVING </a></h4>
                                                     </div>
 
                                                     
@@ -795,7 +791,7 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#children"
+                                                        <h4><a href=""
                                                                 class="ministries-link">CARD GIVING</a></h4>
                                                     </div>
                                                  
@@ -814,7 +810,7 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#jawabu" class="ministries-link">PAYPAL GIVING</a></h4>
+                                                        <h4><a href="" class="ministries-link">PAYPAL GIVING</a></h4>
                                                     </div>
                                                   
                                                 
@@ -833,7 +829,7 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#jawabu" class="ministries-link">CHEQUE PAYMENT</a></h4>
+                                                        <h4><a href=" " class="ministries-link">CHEQUE PAYMENT</a></h4>
                                                     </div>
                                                     
                                          
