@@ -195,30 +195,7 @@
 											</div>
 											<!-- Col -->
 											<!-- Col -->
-											<div id="deliverance" class="col-md-6">
-												<div class="ministries-box-style-2">
-													<!-- Ministries Inner -->
-													<div class="ministries-inner">
-														<div class="ministries-thumb">
-															<img class="img-fluid squared w-100" src="web/rs-plugin/assets/del.jpg" width="360" height="240" alt="Agricultural Processing">
-														</div>
-														
-														<!-- Ministries Content -->
-														<div class="ministries-content pad-lr-30 pad-top-20">
-															<div class="ministries-title margin-bottom-15">													
-																<h4 class="text-center"><a href="/ministries#deliverance" class="ministries-link">Deliverance Ministry</a></h4>
-															</div>
-															<div class="ministries-desc text-center">
-																<p>Salvation and spiritual deliverance to the kingdom of God.</p>
-															</div>
-															<div class="ministries-link margin-top-15 margin-bottom-30 text-center">
-																<a target="_blank" href="/ministries#deliverance" class="link">Read More</a>
-															</div>
-														</div>
-													</div>
-													<!-- Ministries Inner Ends -->
-												</div>
-											</div>
+											
 											<!-- Col -->											
 										</div>
 										<!-- row -->

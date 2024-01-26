@@ -456,35 +456,31 @@
                                 <ul class="menu">
                                     <li class="menu-item"><a href="/about">Who We Are?</a></li>
                                     <li class="menu-item"><a href="index.html#">Support and FAQ’s</a></li>
-                                    <li class="menu-item"><a href="index.html#">Payments</a></li>
-                                    <li class="menu-item"><a href="index.html#">Donations Terms</a></li>
-                                    <li class="menu-item"><a href="index.html#">Volunteer</a></li>
+                                    <li class="menu-item"><a href="index.html#">Partnerships</a></li>
+                                    
+                                    <li class="menu-item"><a href="index.html#">Join Us</a></li>
                                 </ul>
                             </div>
                         </div> <!-- Col -->
                         <div class="col-lg-3 widget recent-posts">
                             <div class="widget-title">
                                 <!-- Title -->
-                                <h3 class="title typo-white">Latest News</h3>
+                                <h3 class="title typo-white">Latest Sermons</h3>
                             </div>
                             <nav>
                                 <ul class="footer-list-posts">
                                     <!-- List Items -->
                                     <li>
-                                        <div class="side-image"> <a href="blog-single.html"><img width="80" height="80"
-                                                    src="images/blog/thumb/blog_thumb1-80x80.jpg"
-                                                    class="img-responsive wp-post-image" alt="Blog"></a> </div>
-                                        <div class="side-item-text"><a href="blog-single.html">Giving Back 
-                                                Training Centers</a> <span class="post-date d-block">Oct 21, 2019</span>
+                                        
+                                        <div class="side-item-text"><a href="blog-single.html">OUR PROPHETIC COVENANT ANOINTING SERVICE WITH BISHOP ERICK MWANGI</a>
+                                         <span class="post-date d-block">JAN 7, 2024</span>
                                         </div>
                                     </li>
                                     <li>
-                                        <div class="side-image"> <a href="blog-single.html"><img width="80" height="80"
-                                                    src="images/blog/thumb/blog_thumb2-80x80.jpg"
-                                                    class="img-responsive wp-post-image" alt="Blog"></a> </div>
-                                        <div class="side-item-text"><a href="blog-single.html">Spirit Of The Lord Is,
-                                                From The New Life</a> <span class="post-date d-block">Oct 21,
-                                                2019</span> </div>
+                                        
+                                        <div class="side-item-text"><a href="blog-single.html"> OUR NIGHT OF DOMINION CROSSOVER KESHA With BISHOP ERICK MWANGI AND PROPHET NANA YAW OBENG</a>
+                                         <span class="post-date d-block">JAN 1, 2024</span> 
+                                        </div>
                                     </li>
                                 </ul>
                             </nav>

@@ -444,15 +444,22 @@
                                     <div class="title-wrap margin-bottom-30">
                                         <div class="section-title"> <span
                                                 class="sub-title theme-color text-uppercase">About Us</span>
-                                            <h2 class="section-title margin-top-5">We are Taking Small Steps to Make
-                                                Earth Better Planet</h2> <span class="border-bottom"></span>
+                                            <h2 class="section-title margin-top-5">
+                                                We are Soul Winners and Church Builders
+                                            </h2> 
+                                            <span class="border-bottom"></span>
                                         </div>
                                         <div class="pad-top-15">
-                                            <p class="margin-bottom-20">We welcome you with great joy to New Breed City Chapel.
-                                                We are here to share the great news of Jesus Christ to all that will
-                                                listen.</p>
-                                            <p class="styled-text">The name of the Lord is a strong tower; the righteous
-                                                run into it and are safe.</p>
+                                            <p class="margin-bottom-20">
+                                                New Breed City Chapel is a Church Under The Apostolic Umbrella of Appointment International Ministries. 
+                                                Our Visionary, Bishop Erick Mwangi is Passionate about Winning Souls for Christ and Church Buildings.
+                                                 We Believe in Taking Dominion as Kings and Priests and taking our places In the seven mountains of Influence
+                                            </p>
+                                            <p class="styled-text">
+                                                 <strong> 
+                                                "Sisi Ni Church Ya Wale Wasee!"
+                                                </strong>
+                                            </p>
                                         </div>
                                     </div>
                                     <div class="row">
@@ -464,10 +471,9 @@
                                                             class="ti-heart b-radius-50 d-block"></span> </div>
                                                     <div class="feature-content">
                                                         <div class="feature-title relative margin-bottom-15">
-                                                            <h4>Place Of Heaven</h4>
+                                                            <h4>Prophetic Word of the Year 2024</h4>
                                                         </div>
-                                                        <p class="mb-0">In New Breed City Chapel you will feel divinity, piety,
-                                                            goodness, faith or right beliefs.</p>
+                                                        <p class="mb-0">2024 is Our Year of Dominion and Fruitfulness</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -480,17 +486,16 @@
                                                             class="ti-book b-radius-50 d-block"></span> </div>
                                                     <div class="feature-content">
                                                         <div class="feature-title relative margin-bottom-15">
-                                                            <h4>Study Bible</h4>
+                                                            <h4>Prophetic Word of the Month </h4>
                                                         </div>
-                                                        <p class="mb-0">Learn the Bible enhance your wisdom, give you
-                                                            boldness about your faith.</p>
+                                                        <p class="mb-0">January 2024 is our Month of Prayer and Consecration</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div> <!-- Feature Box End -->
                                     </div>
                                     <div class="button-section margin-top-35"> <a class="btn btn-default"
-                                            href="/about" title="Learn More">Learn More</a> </div>
+                                            href="/propheticword" title="Learn More">Learn More</a> </div>
                                 </div> <!-- Col -->
                             </div> <!-- Row -->
                         </div> <!-- Container -->
@@ -518,12 +523,15 @@
                                         </div> <!-- video wrap end -->
                                         <div class="title-wrap mb-0">
                                             <div class="section-title typo-white margin-bottom-40">
-                                                <h2 class="title mb-3">“Pray! And listen to God! You can do this alone,
-                                                    but find somebody to do it with you”</h2> <span
-                                                    class="dancing-text">Real Story Cross Journey </span>
+                                                <h2 class="title mb-3">“I Decree and Declare Over Your Life, That in this Year 2024, You will Walk in Dominion and Fruitfulness, in Jesus Christ Mighty Name, Amen!”
+
+                                                </h2>
+                                                 <span
+                                                    class="dancing-text">-Bishop Erick Mwangi
+                                                 </span>
                                             </div>
                                             <div class="get-quote-btn"> <a class="btn btn-default"
-                                                    href="/ministries" title="ministries">Read About Our Ministries</a>
+                                                    href="/sermons" title="ministries">Listen to the Word of the Year</a>
                                             </div>
                                         </div>
                                     </div>
@@ -560,10 +568,12 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#men" class="ministries-link">Mwanaume Ministry</a></h4>
+                                                        <h4><a href="/ministries#men" class="ministries-link">Mwanaume</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>Men ministry invites gentlemen to fellowship and worship together in the house of The Lord.</p>
+                                                        <p>Mwanaume is a Men's Ministry Under the Leadership of our Visionary, Bishop Erick Mwangi.
+                                                             We have three main tenants, Faith, Family and Finance.
+                                                             We believe in taking responsibility and having our place as positioned by God </p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank" href="/ministries#men" class="link">Read More</a>
                                                     </div>
@@ -583,11 +593,13 @@
                                                 <!-- Ministries Content -->
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
-                                                        <h4><a href="/ministries#women"  class="ministries-link">Mrembo Ministry</a></h4>
+                                                        <h4><a href="/ministries#women"  class="ministries-link">Mrembo </a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>Women’s ministry includes hosting Bible studies, services,
-                                                            support group, and gathering events. </p>
+                                                        <p>Mrembo is a women's Ministry under the leadership of our Visionary Mrembo,  Rev Vicky Mwangi.
+                                                             We learn about our place as women.
+                                                              We have various groups that all women can fit into.
+                                                         </p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank"
                                                             href="/ministries#women" class="link">Read More</a>
@@ -609,10 +621,12 @@
                                                 <div class="ministries-content pad-30">
                                                     <div class="ministries-title margin-bottom-15">
                                                         <h4><a href="/ministries#children"
-                                                                class="ministries-link">Children's Church Ministry</a></h4>
+                                                                class="ministries-link">Children's Church</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>Children’s ministry helps kids learn about the Lord Jesus</p>
+                                                        <p>Children's Church is our Children's Ministry. 
+                                                            We believe in raising our Children in the way of the Lord and when they grow up they will not depart from it.
+                                                        </p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank"
                                                             href="/ministries#children" class="link">Read More</a>
@@ -636,7 +650,9 @@
                                                         <h4><a href="/ministries#jawabu" class="ministries-link">Jawabu Ministry</a></h4>
                                                     </div>
                                                     <div class="ministries-desc">
-                                                        <p>We are very grateful for our part in the work of Jawabu Ministries and the opportunity to be on</p>
+                                                        <p>Jawabu is our Youth Ministry.
+                                                             Here, Our Youth are trained to be solutions to the world, as Lights of the World and Salt of the Earth. 
+                                                        </p>
                                                     </div>
                                                     <div class="ministries-link margin-top-20"> <a target="_blank"
                                                             href="/ministries#jawabu" class="link">Read More</a> </div>
@@ -645,14 +661,855 @@
                                         </div>
                                     </div>
                                     <!--Item Ends-->
+
+                                       <!--Item-->
+                                       <div class="item">
+                                        <div class="ministries-box-style-2">
+                                            <!-- Ministries Inner -->
+                                            <div class="ministries-inner">
+                                                <div class="ministries-thumb"> <img class="img-fluid squared w-100"
+                                                        src="web/rs-plugin/assets/t.jpg" width="360"
+                                                        height="240" alt="Agricultural Processing"> </div>
+                                                <!-- Ministries Content -->
+                                                <div class="ministries-content pad-30">
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#jawabu" class="ministries-link">Teens</a></h4>
+                                                    </div>
+                                                    <div class="ministries-desc">
+                                                        <p>Teens Church is our Teens Ministry where our Teens are methodically trained to be able to transition well through the critical stages of their lives. 
+                                                        </p>
+                                                    </div>
+                                                    <div class="ministries-link margin-top-20"> <a target="_blank"
+                                                            href="/ministries#jawabu" class="link">Read More</a> </div>
+                                                </div>
+                                            </div> <!-- Ministries Inner Ends -->
+                                        </div>
+                                    </div>
+                                    <!--Item Ends-->
+
+                                       <!--Item-->
+                                       <div class="item">
+                                        <div class="ministries-box-style-2">
+                                            <!-- Ministries Inner -->
+                                            <div class="ministries-inner">
+                                                <div class="ministries-thumb"> <img class="img-fluid squared w-100"
+                                                        src="web/rs-plugin/assets/couple.jpg" width="360"
+                                                        height="240" alt="Agricultural Processing"> </div>
+                                                <!-- Ministries Content -->
+                                                <div class="ministries-content pad-30">
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#jawabu" class="ministries-link">Wapenzi</a></h4>
+                                                    </div>
+                                                    <div class="ministries-desc">
+                                                        <p>Wapenzi is our Couples Ministry under the leadership of our Bishop and Rev. We believe in Godly marriages.
+                                                             We are trained on practical solutions to Godly Kingdom marriages and our responsibilities In the same
+                                                        </p>
+                                                    </div>
+                                                    <div class="ministries-link margin-top-20"> <a target="_blank"
+                                                            href="/ministries#jawabu" class="link">Read More</a> </div>
+                                                </div>
+                                            </div> <!-- Ministries Inner Ends -->
+                                        </div>
+                                    </div>
+                                    <!--Item Ends-->
+
+                                  
+
                                 </div>
                                 <!--Ministries Owl Slider-->
                             </div> <!-- Row -->
                         </div> <!-- Container -->
                     </section> <!-- Ministries Section End -->
+
+
+                        <!-- Giving Section End -->
+                    <section id="ministries-section" class="ministries-section pad-top-95 pad-bottom-70">
+                        <div class="container">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="offset-md-2 col-md-8">
+                                    <div class="title-wrap text-center">
+                                        <div class="section-title"> <span class="sub-title theme-color text-uppercase"> <a href="/ministries">GIVING</a></span>
+                                            <h2 class="section-title margin-top-5"> <a href="/ministries">PARTNER WITH US </a></h2> <span
+                                                class="border-bottom center"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--Ministries Main Slider-->
+                                <div class="owl-carousel ministries-main-wrapper" data-loop="1" data-nav="1"
+                                    data-dots="0" data-autoplay="0" data-autoplaypause="1" data-autoplaytime="5000"
+                                    data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2"
+                                    data-items-mob="1">
+                                    <!--Item-->
+                                    <div class="item">
+                                        <div class="ministries-box-style-2">
+                                            <!-- Ministries Inner -->
+                                            <div class="ministries-inner">
+                                           
+                                                <!-- Ministries Content -->
+                                                <div class="ministries-content pad-30">
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#men" class="ministries-link">M-PESA GIVING</a></h4>
+                                                    </div>
+
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#men" class="ministries-link">PAY VIA MPESA</a></h4>
+                                                    </div>
+
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#men" class="ministries-link">PAY VIA PAYBILL</a></h4>
+                                                    </div>
+                                                    
+                                                    
+                                                </div>
+                                            </div> <!-- Ministries Inner Ends -->
+                                        </div>
+                                    </div>
+                                    <!--Item Ends-->
+                                    <!--Item-->
+                                    <div class="item">
+                                        <div class="ministries-box-style-2">
+                                            <!-- Ministries Inner -->
+                                            <div class="ministries-inner">
+                                               
+                                                <!-- Ministries Content -->
+                                                <div class="ministries-content pad-30">
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#women"  class="ministries-link">WAVE GIVING </a></h4>
+                                                    </div>
+
+                                                    
+                                                   
+                                                    
+                                                </div>
+                                            </div> <!-- Ministries Inner Ends -->
+                                        </div>
+                                    </div>
+                                    <!--Item Ends-->
+                                    <!--Item-->
+                                    <div class="item">
+                                        <div class="ministries-box-style-2">
+                                            <!-- Ministries Inner -->
+                                            <div class="ministries-inner">
+                                               
+                                                <!-- Ministries Content -->
+                                                <div class="ministries-content pad-30">
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#children"
+                                                                class="ministries-link">CARD GIVING</a></h4>
+                                                    </div>
+                                                 
+                                                  
+                                                </div>
+                                            </div> <!-- Ministries Inner Ends -->
+                                        </div>
+                                    </div>
+                                    <!--Item Ends-->
+                                    <!--Item-->
+                                    <div class="item">
+                                        <div class="ministries-box-style-2">
+                                            <!-- Ministries Inner -->
+                                            <div class="ministries-inner">
+                                               
+                                                <!-- Ministries Content -->
+                                                <div class="ministries-content pad-30">
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#jawabu" class="ministries-link">PAYPAL GIVING</a></h4>
+                                                    </div>
+                                                  
+                                                
+                                                </div>
+                                            </div> <!-- Ministries Inner Ends -->
+                                        </div>
+                                    </div>
+                                    <!--Item Ends-->
+
+                                       <!--Item-->
+                                       <div class="item">
+                                        <div class="ministries-box-style-2">
+                                            <!-- Ministries Inner -->
+                                            <div class="ministries-inner">
+                                              
+                                                <!-- Ministries Content -->
+                                                <div class="ministries-content pad-30">
+                                                    <div class="ministries-title margin-bottom-15">
+                                                        <h4><a href="/ministries#jawabu" class="ministries-link">CHEQUE PAYMENT</a></h4>
+                                                    </div>
+                                                    
+                                         
+                                                </div>
+                                            </div> <!-- Ministries Inner Ends -->
+                                        </div>
+                                    </div>
+                                    <!--Item Ends-->
+
+
+
+                                  
+
+                                </div>
+                                <!--Ministries Owl Slider-->
+                            </div> <!-- Row -->
+                        </div> <!-- Container -->
+                </section>
+
+
+                    <section id="ministries-section" class="ministries-section pad-top-95 pad-bottom-70">
+                        <div class="container">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="offset-md-2 col-md-8">
+                                    <div class="title-wrap text-center">
+                                        <div class="section-title">
+                                             <span class="sub-title theme-color text-uppercase"> 
+                                                <a href="/about#branches">
+                                                    Join us wherever You are 
+                                                </a>
+                                            </span>
+                                            <h2 class="section-title margin-top-5"> 
+                                                <a href="/about#branches">
+                                                    You can join a new breed city Chapel branch near you
+                                                 </a>
+                                            </h2>
+                                             <span  class="border-bottom center"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--Ministries Main Slider-->
+                                
+                                <div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+									<!--Item-->
+									<div id="hq" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href=" "><span class="ti-facebook"></span></a>
+															<a href=" "><span class="ti-youtube"></span></a>	
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">HQ</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div id="thome" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/thome.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Thome</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div id="kasarani" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/kasarani.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kasarani</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div id="kitengela" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kitengela</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div id="rongai" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Rongai</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									<!--Item-->
+									<div id="nakuru" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nakuru.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Nakuru</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+									<!--Item-->
+									<div id="kisumu" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/kisumu.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kisumu</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+									<!--Item-->
+									<div id="kakamega" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/kakamega.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Kakamega</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends--><!--Item-->
+									<div id="abuja" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/abuja.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Abuja</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+									<!--Item-->
+									<div id="dallas" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Dallas</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+									<!--Item-->
+									<div id="diaspora" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+													<div class="team-overlay"></div>
+													<img src="web/rs-plugin/assets/nbc.jpg" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													<div class="team-overlay-details top-left-overlay typo-white text-center">
+														<div class="social-icons">
+															<a href="about-us.html#"><span class="ti-facebook"></span></a>
+															<a href="about-us.html#"><span class="ti-twitter"></span></a>					
+															<a href="about-us.html#"><span class="ti-instagram"></span></a>	
+															<a href="about-us.html#"><span class="ti-linkedin"></span></a>									
+														</div>
+													</div>
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">Diaspora</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+
+
+								</div>
+
+
+
+
+
+
+                                <!--Ministries Owl Slider-->
+                            </div> <!-- Row -->
+                        </div> <!-- Container -->
+                </section>
+
+
+                <section id="ministries-section" class="ministries-section pad-top-95 pad-bottom-70">
+                        <div class="container">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="offset-md-2 col-md-8">
+                                    <div class="title-wrap text-center">
+                                        <div class="section-title"> <span class="sub-title theme-color text-uppercase"> <a href="/departments">Serve God</a></span>
+                                            <h2 class="section-title margin-top-5">
+                                                 <a href="/departments">
+                                                    It Is important to serve God We serve God in four ways, Time, Talent, Treasure and Trust Join a Department below 
+                                                </a>
+                                            </h2> 
+                                            <span class="border-bottom center"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--departments Main Slider-->
+                                
+                               <div class="content-wrapper pad-none">
+                <div class="content-inner">
+                    <!-- Events Section -->
+                    <section id="events-section" class="events-section pad-top-120 pad-bottom-65">
+                        <!-- Screan Reader Text -->
+                        <h2 class="screen-reader-text">Departments</h2>
+                        <div class="container">
+                            <!-- Row -->
+                            <div class="row">
+                                <!-- Col -->
+                                <div class="col-md-12">
+                                    <!--events Main wrap-->
+                                    <div class="events-main-wrapper events-grid events-style-3">
+                                        <div class="row">
+
+                                            <!-- Col-md -->
+                                            <div id="protocol" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/p.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Protocol<span class="event-time">Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#protocol"> Our Protocol Department</a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#protocol">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->
+
+                                            <!-- Col-md -->
+                                            <div id="praise" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/s.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Praise<span class="event-time">& Worship</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#praise">Our Praise and Worship Department</a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#praise">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->
+
+                                            <!-- Col-md -->
+                                            <div id="sound" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/sound.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Sound<span class="event-time">Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#sound">Our Sound Department</a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#sound">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->
+
+                                            <!-- Col-md -->
+                                            <div id="media" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/mediateam.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Media<span class="event-time">Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#media">Our Media Team </a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#media">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->
+
+                                            <!-- Col-md -->
+                                            <div id="visitors" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/v.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">First Time<span class="event-time">Visitors Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#visitors">Welcome to our Visitors Department.</a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#visitors">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->
+
+                                            <!-- Col-md -->
+                                            <div id="discipleship" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/d5.jpg " class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Discipleship<span class="event-time">Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#discipleship">Welcome to our Discipleship Department.</a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#discipleship">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->       
+                                            
+                                            
+
+
+                                            <!-- Col-md -->
+                                            <div id="grounds" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/54.jpg" class="img-fluid thumb w-100" width="768" height="350" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Grounds<span class="event-time">Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#grounds">Our Grounds Department </a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#grounds">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->
+
+                                            <!-- Col-md -->
+                                            <div id="finance" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/fin.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Finance<span class="event-time">Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#finance">Welcome to our Finance Department.</a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#finance">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->
+
+                                            <!-- Col-md -->
+                                            <div id="bishop" class="col-lg-4 col-md-6">
+                                                <!--events Inner-->
+                                                <div class="events-inner margin-bottom-35">
+                                                    <!--events Thumb-->
+													<div class="events-thumb margin-bottom-30 relative">
+														<img src="web/rs-plugin/assets/92.jpg" class="img-fluid thumb w-100" width="768" height="550" alt="events-img" />
+													</div>
+                                                    <!--events details-->
+                                                    <div class="events-details pad-none">
+														<div class="event-date mb-2">Bishops<span class="event-time">Department</span>
+														</div>
+                                                        <div class="event-title pt-1 mb-3">
+															<h5><a href="/departments#bishop">Welcome to our Bishops Department.</a></h5>
+														</div>
+														<div class="read-more">
+															<a href="/departments#bishop">Learn More</a>
+														</div>                                                        
+                                                    </div>
+                                                    <!--events details-->
+                                                </div>
+                                                <!--events Inner Ends-->
+                                            </div>
+                                            <!--Col-md Ends-->      
+
+                                        </div>
+                                        <!-- events Row -->
+                                    </div>
+                                    <!-- events Main wrap Ends -->
+                                </div>
+                                <!-- Col -->
+                            </div>
+                            <!-- Row -->
+                        </div>
+                    </section>
+                    <!-- events Section Ends -->
+                </div>
+            </div>
+
+
+
+
+
+
+                                <!--Ministries Owl Slider-->
+                            </div> <!-- Row -->
+                        </div> <!-- Container -->
+                </section>
+
                     <!-- Contact Section -->
                     <section class="contact-form-section typo-white section-bg-img o-visible pad-top-80 pad-bottom-160"
-                        data-bg="images/bg/bg-2.jpg">
+                        data-bg="web/rs-plugin/assets/nab.jpg">
                         <div class="shape-bottom" data-negative="false"> <svg xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 1000 100" preserveAspectRatio="none">
                                 <path class="shape-fill" opacity="0.33"
@@ -677,18 +1534,18 @@
                                                 </div>
                                                 <h3 class="flip-box-title margin-bottom-30">Call Us</h3>
                                      <div class="flip-content">
-                                       <p> Kiambu Road, KENYA.</p>
-                                        <p><a href="tel:+8(123)985789">+2547/a></p>
-                                        <p><a href="mailto:newbreedchapelcity@gmail.com">newbreedchapelcity@gmail.com</a>
+                                       <p> KIRIGITI-KIAMBU , KENYA.</p>
+                                        <p><a href="tel:+254724825746">+254724825746</p>
+                                        <p><a href="mailto:Info@newbreedcitychapel.org">Info@newbreedcitychapel.org</a>
                                         </p>
                                      </div>
                                             </div>
                                             <div class="flip-box-back">
                                                 <h3 class="flip-box-title">Call Us</h3>
                                                 <div class="flip-content">
-                                                    <p>newbreedchapelcity@gmail.com.</p>
-                                                    <p><a href="tel:+8(123)985789">+2547</a></p>
-                                                    <p><a href="mailto:newbreedchapelcity@gmail.com">newbreedchapelcity@gmail.com</a>
+                                                    <p>Info@newbreedcitychapel.org.</p>
+                                                    <p><a href="tel:+254724825746">+254724825746</a></p>
+                                                    <p><a href="mailto:Info@newbreedcitychapel.org">Info@newbreedcitychapel.org</a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -708,7 +1565,7 @@
                                             </div>
                                         </div>
                                         <div class="button-section margin-top-25"> <a class="btn btn-default"
-                                                href="contact-us.html" title="Learn More">Contact Us</a> </div>
+                                                href="/contact" title="Learn More">Contact Us</a> </div>
                                     </div>
                                 </div> <!-- .col -->
                             </div>
