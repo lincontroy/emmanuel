@@ -43,9 +43,7 @@
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:Garamond">Jesus is holy, loving, and worthy of all our
-                                worship and devotion. You will feel heaven in New Breed City Chapel. Join us and Praise the
-                                Lord Jesus. </rs-layer><!--							-->
+                                style="z-index:9;font-family:Garamond">A place of Love, Purpose And Dominion </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn"
                                 data-type="button" data-color="rgba(255,255,255,1)"
                                 data-xy="x:c;y:m;yo:162px,130px,128px,117px;"
@@ -97,11 +95,12 @@
                                  </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;"
+                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:'Garamond'; color:#000"> <h3> We Showcase God's Love to us by loving one another </h3></rs-layer><!--							--><a id="slider-1-slide-2-layer-16"
+                                style="z-index:9;font-family:'Garamond';">  We Showcase God's Love to us by loving one another </rs-layer><!--							--><a id="slider-1-slide-2-layer-16"
                                 class="rs-layer res-slide-btn pop rev-btn" href="sermons.html" target="_self"
                                 data-type="button" data-color="rgba(255,255,255,1)"
                                 data-xy="x:c;y:m;yo:177px,156px,128px,118px;"
@@ -129,7 +128,7 @@
                                 data-lazyload="web/rs-plugin/assets/a.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" data-type="text"
-                                data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
+                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
                                 data-dim="w:922px,845px,736px,478px;h:62px,auto,auto,35px;" data-padding="b:10;"
@@ -211,6 +210,7 @@
                             <rs-layer id="slider-1-slide-4-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
+                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
@@ -326,6 +326,7 @@
                             <rs-layer id="slider-1-slide-6-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
+                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
