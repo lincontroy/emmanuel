@@ -222,23 +222,26 @@
                                             <div class="widget category-widget">
                                                 <div class="widget-title">
                                                     <!-- Title -->
-                                                    <h3 class="title">Categories</h3>
+                                                    <h3 class="title">Ministries</h3>
                                                 </div>
                                                 <ul class="category-list">
                                                     <li class="cat-item">
-                                                        <a href="ministries-grid-2.html#">Chartiy</a>
+                                                        <a href="ministries-grid-2.html#">Mwanaume</a>
                                                     </li>
                                                     <li class="cat-item">
-                                                        <a href="ministries-grid-2.html#">Faithful</a>
+                                                        <a href="ministries-grid-2.html#">Mrembo</a>
                                                     </li>
                                                     <li class="cat-item">
-                                                        <a href="ministries-grid-2.html#">Jesus Love</a>
+                                                        <a href="ministries-grid-2.html#">Children's Church</a>
                                                     </li>
                                                     <li class="cat-item">
-                                                        <a href="ministries-grid-2.html#">Prayer</a>
+                                                        <a href="ministries-grid-2.html#">Jawabu</a>
                                                     </li>
                                                     <li class="cat-item">
-                                                        <a href="ministries-grid-2.html#">Sermon</a>
+                                                        <a href="ministries-grid-2.html#">Teens</a>
+                                                    </li>
+													<li class="cat-item">
+                                                        <a href="ministries-grid-2.html#">Wapenzi</a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -247,19 +250,17 @@
                                             <div class="widget recent-posts">
                                                 <div class="widget-title">
                                                     <!-- Title -->
-                                                    <h3 class="title">Popular Posts</h3>
+                                                    <h3 class="title">Latest Sermons</h3>
                                                 </div>
                                                     <ul class="list-post-content">
                                                     <li>
                                                         <!--Media-->
                                                         <div class="media list-post">
-                                                            <div class="side-noimg themebg-color">
-																<span class="fa fa-quote-left"></span>																
-															</div>                                                            
+                                                                                                                       
                                                             <div class="media-body">
-                                                                 <a href="https://zozothemes.com/html/zegen/sermon-single.html">Testimony Love Offering So Blessed</a>
+                                                                 <a href="">OUR PROPHETIC COVENANT ANOINTING SERVICE WITH BISHOP ERICK MWANGI</a>
                                                                 <div class="meta-items mt-2">
-                                                                    <span class="post-date"><i class="ti-time me-2 theme-color"></i>Apr 18, 2019</span>
+                                                                    <span class="post-date"><i class="ti-time me-2 theme-color"></i>Jan 7, 2024</span>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -268,11 +269,9 @@
                                                     <li>
                                                         <!--Media-->
                                                         <div class="media list-post">
-                                                            <div class="side-noimg themebg-color">
-																<span class="fa fa-anchor"></span>																
-															</div>
+                                                           
                                                             <div class="media-body">
-                                                                <a href="https://zozothemes.com/html/zegen/sermon-single.html">Belongs to those who fail in their duty</a>
+                                                                <a href="">OUR NIGHT OF DOMINION CROSSOVER KESHA With BISHOP ERICK MWANGI AND PROPHET NANA YAW OBENG</a>
                                                                 <div class="meta-items mt-2">
                                                                     <span class="post-date"><i class="ti-time me-2 theme-color"></i>Apr 18, 2019</span>
                                                                 </div>
@@ -280,36 +279,7 @@
                                                         </div>
                                                         <!-- Media End -->
                                                     </li>
-                                                    <li>
-                                                        <!--Media-->
-                                                        <div class="media list-post">
-                                                            <span class="popular-thumb me-3">
-                                                                <img width="70" height="70" class="rounded" src="images/blog/thumb/blog_thumb3-80x80.jpg" alt="">
-                                                            </span>
-                                                            <div class="media-body">
-                                                                <a href="https://zozothemes.com/html/zegen/sermon-single.html">An Important Conversation Around</a>
-                                                                <div class="meta-items mt-2">
-                                                                    <span class="post-date"><i class="ti-time me-2 theme-color"></i>Apr 18, 2019</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Media End -->
-                                                    </li>
-													<li>
-                                                        <!--Media-->
-                                                        <div class="media list-post">
-                                                            <span class="popular-thumb me-3">
-                                                                <img width="70" height="70" class="rounded" src="images/blog/thumb/blog_thumb1-80x80.jpg" alt="">
-                                                            </span>
-                                                            <div class="media-body">
-                                                                <a href="https://zozothemes.com/html/zegen/sermon-single.html">Let’s Talk With Brian Houston</a>
-                                                                <div class="meta-items mt-2">
-                                                                    <span class="post-date"><i class="ti-time me-2 theme-color"></i>Apr 18, 2019</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Media End -->
-                                                    </li>
+                                                   
                                                 </ul>
                                             </div>
                                             <!-- Popular Post -->                                            
@@ -320,13 +290,13 @@
                                                     <h3 class="title">Tags</h3>
                                                 </div>
                                                 <div class="tagcloud">
-                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">biblestory</a>
-                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">church</a>
-                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">donate</a>
-                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">hope</a>
-                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">jesus</a>
-                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">prayer</a>
-                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">sermon</a>
+                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">events</a>
+                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">Departments</a>
+                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">Sermons</a>
+                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">About Us</a>
+                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">Contact Us</a>
+                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">New Breed TV</a>
+                                                    <a href="ministries-grid-2.html#" class="tag-cloud-link">Jenga Hekalu</a>
                                                 </div>
                                             </div>
                                             <!-- Tag Cloud -->
