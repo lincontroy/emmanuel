@@ -177,12 +177,12 @@
                         </rs-slide>
 
                         <rs-slide style="position: absolute;" data-key="rs-4" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/sidl.jpg"
+                            data-thumb="web/rs-plugin/assets/ee.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/sidl.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/ee.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/sidl.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/ee.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-4-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
