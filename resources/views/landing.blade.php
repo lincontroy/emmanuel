@@ -5,8 +5,8 @@
             <rs-module-wrap id="rev_slider_1_1_wrapper" data-alias="zegen-home-1" data-source="gallery"
                 style="visibility:hidden;background:#000000;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                 <rs-module id="rev_slider_1_1"  data-version="6.5.31">
-                    <rs-slides style="filter: brightness(0.7);">
-                        <rs-slide style="position: absolute; filter: brightness(0.5); " data-key="rs-1" data-title="Web Show"
+                    <rs-slides style="filter: brightness(0.5);">
+                        <rs-slide style="position: absolute;  " data-key="rs-1" data-title="Web Show"
                             data-thumb="web/rs-plugin/assets/bishop.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
                             data-out="a:false;"> <img src="web/rs-plugin/assets/bishop.jpg"  alt=" "
