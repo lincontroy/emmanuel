@@ -45,9 +45,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html"> Our Protocol Department</a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                       
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -70,9 +68,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Our Praise and Worship Department</a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                        
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -95,9 +91,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Our Sound Department</a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                       
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -120,9 +114,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Our Media Team </a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                       
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -145,9 +137,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Welcome to our Visitors Department.</a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                        
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -170,9 +160,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Welcome to our Discipleship Department.</a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                        
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -198,9 +186,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Our Grounds Department </a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+													                                                       
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -223,9 +209,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Welcome to our Finance Department.</a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                       
                                                     </div>
                                                     <!--events details-->
                                                 </div>
@@ -248,9 +232,7 @@
                                                         <div class="event-title pt-1 mb-3">
 															<h5><a href="event-details.html">Welcome to our Bishops Department.</a></h5>
 														</div>
-														<div class="read-more">
-															<a href="event-details.html">Learn More</a>
-														</div>                                                        
+														                                                       
                                                     </div>
                                                     <!--events details-->
                                                 </div>

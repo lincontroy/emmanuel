@@ -5,11 +5,11 @@
             <rs-module-wrap id="rev_slider_1_1_wrapper" data-alias="zegen-home-1" data-source="gallery"
                 style="visibility:hidden;background:#000000;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                 <rs-module id="rev_slider_1_1"  data-version="6.5.31">
-                    <rs-slides>
-                        <rs-slide style="position: absolute;" data-key="rs-1" data-title="Web Show"
+                    <rs-slides style="filter: brightness(0.7);">
+                        <rs-slide style="position: absolute; filter: brightness(0.5); " data-key="rs-1" data-title="Web Show"
                             data-thumb="web/rs-plugin/assets/bishop.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/bishop.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/bishop.jpg"  alt=" "
                                 title="zmain-slider-1.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload" 
                                 data-lazyload= "web/rs-plugin/assets/bishop.jpg"  data-parallax="5"
@@ -62,15 +62,15 @@
                             <!---->
                         </rs-slide>
                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/happy.jpg"
+                            data-thumb="web/rs-plugin/assets/cong.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/happy.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/cong.jpg" alt=" "
                                 title="zmain-slider-3.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/happy.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/cong.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" data-type="text"
-                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
+                                data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-32px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
                                 data-dim="w:922px,845px,736px,478px;h:62px,auto,auto,35px;" data-padding="b:10;"
@@ -95,7 +95,7 @@
                                  </rs-layer><!--							-->
                             <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;"
-                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
+                                data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
@@ -128,7 +128,7 @@
                                 data-lazyload="web/rs-plugin/assets/a.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" data-type="text"
-                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
+                                data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
                                 data-dim="w:922px,845px,736px,478px;h:62px,auto,auto,35px;" data-padding="b:10;"
@@ -177,12 +177,12 @@
                         </rs-slide>
 
                         <rs-slide style="position: absolute;" data-key="rs-4" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/domi.jpg"
+                            data-thumb="web/rs-plugin/assets/sidl.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/domi.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/sidl.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/domi.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/sidl.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-4-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -210,7 +210,7 @@
                             <rs-layer id="slider-1-slide-4-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
-                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
+                                data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
@@ -293,12 +293,12 @@
                         </rs-slide>
 
                         <rs-slide style="position: absolute;" data-key="rs-6" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/c.jpg"
+                            data-thumb="web/rs-plugin/assets/sea.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
-                            data-out="a:false;"> <img src="web/rs-plugin/assets/c.jpg" alt=" "
+                            data-out="a:false;"> <img src="web/rs-plugin/assets/sea.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
-                                data-lazyload="web/rs-plugin/assets/c.jpg" data-parallax="5"
+                                data-lazyload="web/rs-plugin/assets/sea.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
                             <h1 id="slider-1-slide-6-layer-2" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -326,7 +326,7 @@
                             <rs-layer id="slider-1-slide-6-layer-14" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
-                                data-color="#000000||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
+                                data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
