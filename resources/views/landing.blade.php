@@ -14,7 +14,7 @@
                                 class="rev-slidebg tp-rs-img rs-lazyload" 
                                 data-lazyload= "web/rs-plugin/assets/bishop.jpg"  data-parallax="5"
                                 data-no-retina><!--							-->
-                            <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text"
+                            <h1 id="slider-1-slide-1-layer-2" style="filter: brightness(3.5);" class="rs-layer Concept-Title" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,-26px,-10px,-33px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,30;l:52,55,50,40;ls:3px;fw:700;a:center;"
@@ -24,7 +24,7 @@
                                 data-frame_999_reverse="x:true;"
                                 style="z-index:10;font-family:'Garamond';text-transform:uppercase; ">NEW BREED CITY CHAPEL
                             </h1><!--							-->
-                            <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text"
+                            <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" style="filter: brightness(3.5);" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;"
                                 data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,left,left,left;"
                                 data-dim="w:408px,auto,auto,auto;" data-padding="b:10;" data-frame_0="o:1;"
@@ -37,14 +37,14 @@
 
 
                                  </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-1-layer-14" data-type="text" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
                                 style="z-index:9;font-family:Garamond">A place of Love, Purpose And Dominion </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn"
+                            <rs-layer id="slider-1-slide-1-layer-16" style="filter: brightness(3.5);" class="res-slide-btn pop rev-btn"
                                 data-type="button" data-color="rgba(255,255,255,1)"
                                 data-xy="x:c;y:m;yo:162px,130px,128px,117px;"
                                 data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off"
@@ -54,7 +54,7 @@
                                 data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
                                 style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
                                 Contact Us </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-1-layer-21" data-type="image" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-1-layer-21" style="filter: brightness(3.5);" data-type="image" data-rsp_ch="on"
                                 data-xy="x:c;yo:228px,95px,91px,90px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
@@ -69,7 +69,7 @@
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="web/rs-plugin/assets/cong.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
-                            <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" data-type="text"
+                            <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" style="filter: brightness(3.5);" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-32px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
@@ -80,7 +80,7 @@
                                 data-frame_999_reverse="x:true;"
                                 style="z-index:10;font-family:'Garamond';text-transform:uppercase;"> A Place of Love                                 
                              </h1><!--							-->
-                            <rs-layer id="slider-1-slide-2-layer-4" class="Concept-SubTitle" data-type="text"
+                            <rs-layer id="slider-1-slide-2-layer-4" class="Concept-SubTitle" style="filter: brightness(3.5);" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-72px;"
                                 data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,center,left,left;"
                                 data-dim="w:446px,424px,auto,auto;" data-padding="b:10;" data-frame_0="o:1;"
@@ -93,7 +93,7 @@
 
 
                                  </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-2-layer-14" data-type="text" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
@@ -112,14 +112,14 @@
                                 data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
                                 style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Read
                                 More </a><!--							-->
-                            <rs-layer id="slider-1-slide-2-layer-21" data-type="image" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-2-layer-21" data-type="image" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;yo:228px,133px,102px,89px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
                                 data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;"> </rs-layer>
                             <!---->
                         </rs-slide>
-                        <rs-slide style="position: absolute;" data-key="rs-3" data-title="Web Show"
+                        <rs-slide style="position: absolute;" data-key="rs-3" style="filter: brightness(1.5);" data-title="Web Show"
                             data-thumb="web/rs-plugin/assets/a.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
                             data-out="a:false;"> <img src="web/rs-plugin/assets/a.jpg" alt=" "
@@ -127,7 +127,7 @@
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="web/rs-plugin/assets/a.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
-                            <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" data-type="text"
+                            <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" style="filter: brightness(3.5);" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
@@ -138,7 +138,7 @@
                                 data-frame_999_reverse="x:true;"
                                 style="z-index:10;font-family:'Garamond';text-transform:uppercase;">A Place of Purpose
                             </h1><!--							-->
-                            <rs-layer id="slider-1-slide-3-layer-4" class="Concept-SubTitle" data-type="text"
+                            <rs-layer id="slider-1-slide-3-layer-4" class="Concept-SubTitle" style="filter: brightness(3.5);" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-76px;"
                                 data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,center,left,left;"
                                 data-dim="w:446px,424px,auto,auto;" data-padding="b:10;" data-frame_0="o:1;"
@@ -150,7 +150,7 @@
                             
                             
                             </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-3-layer-14" data-type="text" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-3-layer-14" style="filter: brightness(3.5);" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
@@ -168,7 +168,7 @@
                                 data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
                                 style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Read
                                 More </a><!--							-->
-                            <rs-layer id="slider-1-slide-3-layer-21" data-type="image" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-3-layer-21" data-type="image" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;yo:228px,133px,102px,85px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
@@ -176,15 +176,20 @@
                             <!---->
                         </rs-slide>
 
+<<<<<<< HEAD
                         <rs-slide style="position: absolute;" data-key="rs-4" data-title="Web Show"
                             data-thumb="web/rs-plugin/assets/ee.jpg"
+=======
+                        <rs-slide style="position: absolute;" data-key="rs-4" style="filter: brightness(3.5);" data-title="Web Show"
+                            data-thumb="web/rs-plugin/assets/sidl.jpg"
+>>>>>>> origin/main
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
                             data-out="a:false;"> <img src="web/rs-plugin/assets/ee.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="web/rs-plugin/assets/ee.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
-                            <h1 id="slider-1-slide-4-layer-2" class="rs-layer Concept-Title" data-type="text"
+                            <h1 id="slider-1-slide-4-layer-2" class="rs-layer Concept-Title" style="filter: brightness(3.5);" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
@@ -195,7 +200,7 @@
                                 data-frame_999_reverse="x:true;"
                                 style="z-index:10;font-family:'Garamond';text-transform:uppercase;">A place Of Dominion
                             </h1><!--							-->
-                            <rs-layer id="slider-1-slide-4-layer-4" class="Concept-SubTitle" data-type="text"
+                            <rs-layer id="slider-1-slide-4-layer-4" class="Concept-SubTitle" style="filter: brightness(3.5);" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-76px;"
                                 data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,center,left,left;"
                                 data-dim="w:446px,424px,auto,auto;" data-padding="b:10;" data-frame_0="o:1;"
@@ -207,7 +212,7 @@
                             
                             
                             </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-4-layer-14" data-type="text" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-4-layer-14" style="filter: brightness(3.5);" data-type="text" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -227,7 +232,7 @@
                                 data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
                                 style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">View
                                 Ministries </a><!--							-->
-                            <rs-layer id="slider-1-slide-4-layer-21" data-type="image" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-4-layer-21" style="filter: brightness(3.5);" data-type="image" data-rsp_ch="on"
                                 data-xy="x:c;yo:228px,133px,102px,85px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
@@ -235,7 +240,7 @@
                             <!---->
                         </rs-slide>
 
-                        <rs-slide style="position: absolute;" data-key="rs-5" data-title="Web Show"
+                        <rs-slide style="position: absolute;" style="filter: brightness(3.5);" data-key="rs-5" data-title="Web Show"
                             data-thumb="web/rs-plugin/assets/crowd.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
                             data-out="a:false;"> <img src="web/rs-plugin/assets/crowd.jpg" alt=" "
@@ -243,7 +248,7 @@
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="web/rs-plugin/assets/crowd.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
-                            <h1 id="slider-1-slide-5-layer-2" class="rs-layer Concept-Title" data-type="text"
+                            <h1 id="slider-1-slide-5-layer-2" class="rs-layer Concept-Title" style="filter: brightness(3.5);" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
@@ -254,7 +259,7 @@
                                 data-frame_999_reverse="x:true;"
                                 style="z-index:10;font-family:'Garamond';text-transform:uppercase;">New Breed Connect TV
                             </h1><!--							-->
-                            <rs-layer id="slider-1-slide-5-layer-4" class="Concept-SubTitle" data-type="text"
+                            <rs-layer id="slider-1-slide-5-layer-4" class="Concept-SubTitle" style="filter: brightness(3.5);" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-76px;"
                                 data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,center,left,left;"
                                 data-dim="w:446px,424px,auto,auto;" data-padding="b:10;" data-frame_0="o:1;"
@@ -266,7 +271,7 @@
                             
                             
                             </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-5-layer-14" data-type="text" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-5-layer-14" data-type="text" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
@@ -284,7 +289,7 @@
                                 data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
                                 style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Connect With
                                 Us </a><!--							-->
-                            <rs-layer id="slider-1-slide-5-layer-21" data-type="image" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-5-layer-21" data-type="image" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;yo:228px,133px,102px,85px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
@@ -292,7 +297,7 @@
                             <!---->
                         </rs-slide>
 
-                        <rs-slide style="position: absolute;" data-key="rs-6" data-title="Web Show"
+                        <rs-slide style="position: absolute;" style="filter: brightness(3.5);" data-key="rs-6" data-title="Web Show"
                             data-thumb="web/rs-plugin/assets/sea.jpg"
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
                             data-out="a:false;"> <img src="web/rs-plugin/assets/sea.jpg" alt=" "
@@ -300,7 +305,7 @@
                                 class="rev-slidebg tp-rs-img rs-lazyload"
                                 data-lazyload="web/rs-plugin/assets/sea.jpg" data-parallax="5"
                                 data-no-retina><!--							-->
-                            <h1 id="slider-1-slide-6-layer-2" class="rs-layer Concept-Title" data-type="text"
+                            <h1 id="slider-1-slide-6-layer-2" class="rs-layer Concept-Title" style="filter: brightness(3.5);" data-type="text"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
                                 data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;"
                                 data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;"
@@ -311,7 +316,7 @@
                                 data-frame_999_reverse="x:true;"
                                 style="z-index:10;font-family:'Garamond';text-transform:uppercase;">Jenga Hekalu
                             </h1><!--							-->
-                            <rs-layer id="slider-1-slide-6-layer-4" class="Concept-SubTitle" data-type="text"
+                            <rs-layer id="slider-1-slide-6-layer-4" class="Concept-SubTitle" style="filter: brightness(3.5);" data-type="text"
                                 data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-76px;"
                                 data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,center,left,left;"
                                 data-dim="w:446px,424px,auto,auto;" data-padding="b:10;" data-frame_0="o:1;"
@@ -323,7 +328,7 @@
                             
                             
                             </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-6-layer-14" data-type="text" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-6-layer-14" data-type="text" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;"
                                 data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;"
                                 data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)"
@@ -342,7 +347,7 @@
                                 data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
                                 style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">See
                                 More </a><!--							-->
-                            <rs-layer id="slider-1-slide-6-layer-21" data-type="image" data-rsp_ch="on"
+                            <rs-layer id="slider-1-slide-6-layer-21" data-type="image" style="filter: brightness(3.5);" data-rsp_ch="on"
                                 data-xy="x:c;yo:228px,133px,102px,85px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
                                 data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;"
