@@ -308,95 +308,15 @@
                                                   
                                                     </li>
 
-                                                    
-
-                                                    <li class="dropdown dropdown-sub"><a href="/about">About Us</a>
                                                    
-                                                        <ul class="dropdown-menu">
-                                                                <li><a >Mission</a></li>
-                                                                <li><a href="/about#vision">Vision</a></li>
-                                                                <li><a href="/about#leaders">Leadership Structure</a></li>
-                                                                <li><a href="/about#apostles">Apostolic Counsel</a></li>
-                                                                <li><a href="/about#dreamteam">Dream Team</a></li>                                                         
-
-                                                        </ul>
-
-                                                    </li>
-
-                                                    <li class="dropdown dropdown-sub"><a href="/ministries">Ministries</a>
-                                                        <ul class="dropdown-menu">
-                                                                <li><a href="/ministries#men">Mwanaume</a></li>
-                                                                <li><a href="/ministries#women">Mrembo</a></li>
-                                                                <li><a href="/ministries#children">Children's Church</a></li>
-                                                                <li><a href="/ministries#jawabu">Jawabu</a></li>
-                                                                <li><a href="/ministries#teens">Teens</a></li>
-                                                                <li><a href="/ministries#wapenzi">Wapenzi</a></li>  
-                                                                <li><a href="/ministries#deliverance">Deliverance</a></li>                                                    
-
-                                                        </ul>
-                                                    </li>
-
-                                                    <li class="dropdown dropdown-sub"><a href="/events">Events</a>
-                                                        <ul class="dropdown-menu">
-                                                                <li> <a href="">Conference</a> </li>
-                                                                <li><a href="">Camps</a></li>
-                                                                <li><a href="">Fun Days</a></li>
-                                                                <li><a href="">Gallery</a></li>
-                                                                                                                        
-
-                                                        </ul>
-
-                                                    </li>
-                                                    <li class="dropdown dropdown-sub"><a href="/departments">Departments</a>
-                                                   
-                                                        <ul class="dropdown-menu">
-                                                                <li><a href="/departments#protocol">Protocol</a></li>
-                                                                <li><a href="/departments#praise">Praise and Worship</a></li>
-                                                                <li><a href="/departments#sound">Sound</a></li>
-                                                                <li><a href="/departments#media">Media Team</a></li>
-                                                                <li><a href="/departments#visitors">Visitors</a></li>
-                                                                <li><a href="/departments#discipleship">Discipleship</a></li>   
-                                                                <li><a href="/departments#grounds">Grounds</a></li>
-                                                                <li><a href="/departments#finance">Finance</a></li>
-                                                                <li><a href="/departments#bishop">Bishop</a></li>                                                        
-
-                                                        </ul>
-
-                                                    </li>
-
-
-                                                    <li class="dropdown dropdown-sub"> <a href="/about#branches">Branches</a>
-
-                                                    <ul class="dropdown-menu">
-                                                                <li><a href="/about#branches">NBC HQ</a></li>
-                                                                <li><a href="/about#branches">NBC Thome</a></li>
-                                                                <li><a href="/about#branches">NBC Kasarani</a></li>
-                                                                <li><a href="/about#branches">NBC Kitengela</a></li>
-                                                                <li><a href="/about#branches">NBC Rongai</a></li>
-                                                                <li><a href="/about#branches">NBC Nakuru</a></li>  
-                                                                <li><a href="/about#branches">NBC Kisumu</a></li>
-                                                                <li><a href="/about#branches">NBC Kakamega</a></li>
-                                                                <li><a href="/about#branches">NBC Abuja</a></li>
-                                                                <li><a href="/about#branches">NBC Dallas</a></li>
-                                                                <li><a href="/about#branches">NBC Diaspora</a></li>                                                       
-
-                                                        </ul>
-
-                                                    </li>
-                                                    
-                                                 
-                                                    <li class="">
-                                                        <a href="/contact">Contact Us</a>
-                                                    </li>
-
                                                     
                                                 </ul>
                                             </li>
                                             <!--List Item End-->
                                             <!--List Item-->
                                             <li class="list-item">
-                                                <div class="header-navbar-text-1"><a href="/members"
-                                                        class="h-donate-btn">LOGIN</a></div>
+                                                <div class="header-navbar-text-1"><a href="/"
+                                                        class="h-donate-btn">LOGOUT</a></div>
                                             </li>
                                             <!--List Item End-->
                                         </ul> <!-- Menu -->
@@ -410,8 +330,509 @@
                 </div>
             </header> <!-- header -->
             <!-- Revolution Slider Section -->
-           @yield('content')
-        </div> <!-- .page-wrapper-inner -->
+
+
+<div class="page-title-wrap typo-white">
+                <div class="page-title-wrap-inner section-bg-img" data-bg="">
+					<span class="theme-overlay"></span>
+                    <div class="container">
+                        <div class="row text-center">
+                            <div class="col-md-12">
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- page-header -->
+            <!-- Page Content -->
+            <div class="content-wrapper pad-none">
+                <div class="content-inner">
+
+
+
+                <section id="ministries-section" class="ministries-section pad-top-95 pad-bottom-70">
+                        <div class="container">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="offset-md-2 col-md-8">
+                                    <div class="title-wrap text-center">
+                                        <div class="section-title">
+                                             <span class="sub-title theme-color text-uppercase"> 
+                                                <a href="/about#branches">
+                                               NEW BREED CITY 
+                                                </a>
+                                            </span>
+                                            <h2 class="section-title margin-top-5"> 
+                                                <a href="/about#branches">
+                                                TASK FORCE
+                                                 </a>
+                                            </h2>
+                                             <span  class="border-bottom center"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--Ministries Main Slider-->
+                                
+                                <div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+									<!--Item-->
+									<div id="1" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">1</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+                                    
+                                    <!--Item-->
+									<div id="2" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">2</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+
+                                    <!--Item-->
+									<div id="3" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">3</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+                                    <!--Item-->
+									<div id="4" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">4</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+                                    <!--Item-->
+									<div id="5" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">5</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+
+                                    <!--Item-->
+									<div id="6" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">6</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+
+                                    <!--Item-->
+									<div id="7" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">7</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+                                    <!--Item-->
+									<div id="8" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">8</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+                                    <!--Item-->
+									<div id="9" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">New Breed City</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">9</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+
+
+									
+
+
+
+
+
+								</div>
+
+
+
+
+
+
+                                <!--Ministries Owl Slider-->
+                            </div> <!-- Row -->
+                        </div> <!-- Container -->
+                </section>
+                    
+                   
+                  
+
+                    <section id="ministries-section" class="ministries-section pad-top-95 pad-bottom-70">
+                        <div class="container">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="offset-md-2 col-md-8">
+                                    <div class="title-wrap text-center">
+                                        <div class="section-title">
+                                             <span class="sub-title theme-color text-uppercase"> 
+                                                <a href="/about#branches">
+                                                Check In  
+                                                </a>
+                                            </span>
+                                            <h2 class="section-title margin-top-5"> 
+                                                <a href="/about#branches">
+                                                Register
+                                                 </a>
+                                            </h2>
+                                             <span  class="border-bottom center"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--Ministries Main Slider-->
+                                
+                                <div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+									<!--Item-->
+									<div id="monday" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Monday Taskforce meeting</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">1</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+                                    <!--Item-->
+									<div id="tuesday" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Tuesday Taskforce meeting</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">2</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+                                    <!--Item-->
+									<div id="friday" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Friday Taskforce meeting</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">8</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+
+                                    <!--Item-->
+									<div id="sunday" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Sunday Taskforce meeting</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">8</p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+                                    <!--Item-->
+									<div id="tithe" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">TITHE</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">  </p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+                                    <!--Item-->
+									<div id="partnership" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Partnership</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">  </p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+
+                                    <!--Item-->
+									<div id="camps" class="item">
+										<div class="team-style-1">
+											<!--Team Inner-->										
+											<div class="team-inner margin-bottom-20">												
+												<div class="team-thumb mb-0 relative">
+													<!--Team Overlay-->
+												
+													<img src="web/rs-plugin/assets/" class="img-fluid thumb w-100" width="480" height="485" alt="team-img" />	
+													
+												</div>												
+												<div class="team-details text-center pad-20">
+													<div class="team-name">
+														<h3 class="mb-0"><a href="about-us.html#" class="client-name typo-white">Camps</a></h3>
+													</div>
+													<div class="team-designation"><p class="mb-0">  </p></div>
+												</div>
+											</div>
+											<!--Team Inner Ends-->
+										</div>
+									</div>
+									<!--Item Ends-->
+									
+									
+
+
+
+								</div>
+
+
+
+
+
+
+                                <!--Ministries Owl Slider-->
+                            </div> <!-- Row -->
+                        </div> <!-- Container -->
+                </section>
+
+
+
+                </div>
+            </div>
+
+
+
+            </div> <!-- .page-wrapper-inner -->
     </div>
     <!--page-wrapper-->
     <!-- Footer -->
