@@ -44,7 +44,7 @@
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
                                 style="z-index:9;font-family:Garamond">A place of Love, Purpose And Dominion </rs-layer><!--							-->
-                            <rs-layer id="slider-1-slide-1-layer-16" style="filter: brightness(3.5);" class="res-slide-btn pop rev-btn"
+                            <rs-layer id="slider-1-slide-1-layer-16"  class="res-slide-btn pop rev-btn"
                                 data-type="button" data-color="rgba(255,255,255,1)"
                                 data-xy="x:c;y:m;yo:162px,130px,128px,117px;"
                                 data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off"
@@ -176,13 +176,8 @@
                             <!---->
                         </rs-slide>
 
-<<<<<<< HEAD
                         <rs-slide style="position: absolute;" data-key="rs-4" data-title="Web Show"
                             data-thumb="web/rs-plugin/assets/ee.jpg"
-=======
-                        <rs-slide style="position: absolute;" data-key="rs-4" style="filter: brightness(3.5);" data-title="Web Show"
-                            data-thumb="web/rs-plugin/assets/sidl.jpg"
->>>>>>> origin/main
                             data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);"
                             data-out="a:false;"> <img src="web/rs-plugin/assets/ee.jpg" alt=" "
                                 title="zmain-slider-2.jpg" width="1536" height="864"
