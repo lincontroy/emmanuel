@@ -32,7 +32,7 @@
 												<div class="feature-title">
 													<h5 class="mb-2">Our Location</h5>
 												</div>
-												<p class="mb-0">Kiambu Road, KENYA</p>
+												<p class="mb-0">Dagoretti south</p>
 											</div>											
 										</div>
 									</div>
@@ -68,7 +68,7 @@
 												</div>
 												<a href="mailto:info@.com">info@   .com</a>
 												<br>
-												<a href="mailto:info@zegen.com">newbreedchapelcity@gmail.com</a>
+												<a href="mailto:info@zegen.com">emm@gmail.com</a>
 											</div>											
 										</div>
 									</div>
@@ -140,7 +140,7 @@
                                 <!-- .col -->
                                 <div class="col-lg-4 pad-none">
                                     <div class="contact-img">
-                                        <img class="img-fluid" src="web/rs-plugin/assets/berick.jpg" width="752" height="888" alt="Contact Map">
+                                        <img class="img-fluid" src="web/images/emmm4.jpeg" width="752" height="888" alt="Contact Map">
                                     </div>
                                 </div>
                                  <!-- Col -->

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="images/favicon.png" rel="icon">
     <!--Title-->
-    <title>Newbreed chapel</title> <!-- CSS -->
+    <title>{{env('APP_NAME')}}</title> <!-- CSS -->
     <!-- Bootstrap -->
     <link rel="stylesheet" href="web/css/bootstrap.min.css"> <!-- Font Awesome -->
     <link rel="stylesheet" href="web/css/font-awesome.min.css"> <!-- Simple Line Icons -->
@@ -252,14 +252,14 @@
                             <ul class="nav topbar-items pull-right">
                                 <li class="nav-item">
                                     <div class="social-icons typo-white"> 
-                                        <a href="https://www.facebook.com/NewBreedCityChapel" class="social-fb">
+                                        <a href="https://www.facebook.com/emmanuelintminiChapel" class="social-fb">
                                             <span class="ti-facebook"></span>
                                         </a> 
-                                            <a href="https://twitter.com/newbreedcity" class="social-twitter">
+                                            <a href="https://twitter.com/emmanuelintmini" class="social-twitter">
                                                <span class="ti-twitter"></span>
                                             </a>
 
-                                             <a href="https://www.instagram.com/newbreedcity_chapel/" class="social-instagram">
+                                             <a href="https://www.instagram.com/emmanuelintmini_chapel/" class="social-instagram">
                                                 <span class="ti-instagram"></span>
                                             </a> 
 
@@ -312,77 +312,12 @@
 
                                                     <li class="dropdown dropdown-sub"><a href="/about">About Us</a>
                                                    
-                                                        <ul class="dropdown-menu">
-                                                                <li><a >Mission</a></li>
-                                                                <li><a href="/about#vision">Vision</a></li>
-                                                                <li><a href="/about#leaders">Leadership Structure</a></li>
-                                                                <li><a href="/about#apostles">Apostolic Counsel</a></li>
-                                                                <li><a href="/about#dreamteam">Dream Team</a></li>                                                         
-
-                                                        </ul>
+                                                    
 
                                                     </li>
 
-                                                    <li class="dropdown dropdown-sub"><a href="/ministries">Ministries</a>
-                                                        <ul class="dropdown-menu">
-                                                                <li><a href="/ministries#men">Mwanaume</a></li>
-                                                                <li><a href="/ministries#women">Mrembo</a></li>
-                                                                <li><a href="/ministries#children">Children's Church</a></li>
-                                                                <li><a href="/ministries#jawabu">Jawabu</a></li>
-                                                                <li><a href="/ministries#teens">Teens</a></li>
-                                                                <li><a href="/ministries#wapenzi">Wapenzi</a></li>  
-                                                                <li><a href="/ministries#deliverance">Deliverance</a></li>                                                    
 
-                                                        </ul>
-                                                    </li>
-
-                                                    <li class="dropdown dropdown-sub"><a href="/events">Events</a>
-                                                        <ul class="dropdown-menu">
-                                                                <li> <a href="">Conference</a> </li>
-                                                                <li><a href="">Camps</a></li>
-                                                                <li><a href="">Fun Days</a></li>
-                                                                <li><a href="">Gallery</a></li>
-                                                                                                                        
-
-                                                        </ul>
-
-                                                    </li>
-                                                    <li class="dropdown dropdown-sub"><a href="/departments">Departments</a>
                                                    
-                                                        <ul class="dropdown-menu">
-                                                                <li><a href="/departments#protocol">Protocol</a></li>
-                                                                <li><a href="/departments#praise">Praise and Worship</a></li>
-                                                                <li><a href="/departments#sound">Sound</a></li>
-                                                                <li><a href="/departments#media">Media Team</a></li>
-                                                                <li><a href="/departments#visitors">Visitors</a></li>
-                                                                <li><a href="/departments#discipleship">Discipleship</a></li>   
-                                                                <li><a href="/departments#grounds">Grounds</a></li>
-                                                                <li><a href="/departments#finance">Finance</a></li>
-                                                                <li><a href="/departments#bishop">Bishop</a></li>                                                        
-
-                                                        </ul>
-
-                                                    </li>
-
-
-                                                    <li class="dropdown dropdown-sub"> <a href="/about#branches">Branches</a>
-
-                                                    <ul class="dropdown-menu">
-                                                                <li><a href="/about#branches">NBC HQ</a></li>
-                                                                <li><a href="/about#branches">NBC Thome</a></li>
-                                                                <li><a href="/about#branches">NBC Kasarani</a></li>
-                                                                <li><a href="/about#branches">NBC Kitengela</a></li>
-                                                                <li><a href="/about#branches">NBC Rongai</a></li>
-                                                                <li><a href="/about#branches">NBC Nakuru</a></li>  
-                                                                <li><a href="/about#branches">NBC Kisumu</a></li>
-                                                                <li><a href="/about#branches">NBC Kakamega</a></li>
-                                                                <li><a href="/about#branches">NBC Abuja</a></li>
-                                                                <li><a href="/about#branches">NBC Dallas</a></li>
-                                                                <li><a href="/about#branches">NBC Diaspora</a></li>                                                       
-
-                                                        </ul>
-
-                                                    </li>
                                                     
                                                  
                                                     <li class="">
@@ -425,20 +360,20 @@
                         <div class="col-lg-3 widget text-widget">
                             <div class="widget-title">
                                 <!-- Title -->
-                                <h3 class="title typo-white">About New Breed City Chapel</h3>
+                                <h3 class="title typo-white">About {{env('APP_NAME')}}</h3>
                             </div> <!-- Text -->
                             <div class="widget-text margin-bottom-30">
-                                <p>New Breed City Chapel</p>
+                                <p>{{env('APP_NAME')}}</p>
                             </div>
                             <div class="social-icons"> 
-                                <a href="https://www.facebook.com/NewBreedCityChapel/" class="social-fb">
+                                <a href="https://www.facebook.com/emmanuelintminiChapel/" class="social-fb">
                                     <span class="ti-facebook"></span>
                                 </a>
                                 
-                                <a href="https://twitter.com/newbreedcity" class="social-twitter">
+                                <a href="https://twitter.com/emmanuelintmini" class="social-twitter">
                                     <span class="ti-twitter"></span>
                                 </a> 
-                                <a href="https://www.instagram.com/newbreedcity_chapel/" class="social-instagram">
+                                <a href="https://www.instagram.com/emmanuelintmini_chapel/" class="social-instagram">
                                     <span class="ti-instagram"></span>
                                 </a> 
                                
@@ -472,13 +407,13 @@
                                     <!-- List Items -->
                                     <li>
                                         
-                                        <div class="side-item-text"><a href="blog-single.html">OUR PROPHETIC COVENANT ANOINTING SERVICE WITH BISHOP ERICK MWANGI</a>
+                                        <div class="side-item-text"><a href="blog-single.html">OUR PROPHETIC COVENANT ANOINTING SERVICE </a>
                                          <span class="post-date d-block">JAN 7, 2024</span>
                                         </div>
                                     </li>
                                     <li>
                                         
-                                        <div class="side-item-text"><a href="blog-single.html"> OUR NIGHT OF DOMINION CROSSOVER KESHA With BISHOP ERICK MWANGI AND PROPHET NANA YAW OBENG</a>
+                                        <div class="side-item-text"><a href="blog-single.html"> OUR NIGHT OF DOMINION CROSSOVER KESHA </a>
                                          <span class="post-date d-block">JAN 1, 2024</span> 
                                         </div>
                                     </li>
@@ -490,7 +425,7 @@
                                 <!-- Title -->
                                 <h3 class="title typo-white">Newsletter</h3>
                             </div>
-                            <p>Sign up for our weekly newsletter to stay updated on all news and events at New Breed City Chapel.
+                            <p>Sign up for our weekly newsletter to stay updated on all news and events at {{env('APP_NAME')}}.
                                 Email updates on new product Announcements, Gift Ideas, Special Promotions and More.</p>
                             <div class="mailchimp-widget-wrap">
                                 <!-- subscribe form -->
@@ -520,8 +455,7 @@
                                 <li class="nav-item">
                                     <div class="nav-item-inner"> Copyrights © <script>
                                             document.write(new Date().getFullYear())
-                                        </script> <a href="index.html">   </a>. Designed by <a
-                                            href="http://automationeye.com">Automation Eye Limited</a>  </div>
+                                        </script>  </div>
                                 </li>
                             </ul>
                             <ul class="footer-bottom-items footer-menu pull-right">
